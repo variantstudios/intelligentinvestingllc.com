@@ -26,14 +26,6 @@ collections:
   posts:
     output: true
     permalink: '/blog/:title/'
-  people:
-    output: false
-  categories:
-    output: true
-    permalink: '/blog/:title/'
-  tags:
-    output: true
-    permalink: '/blog/:title/'
 
 defaults:
   -
