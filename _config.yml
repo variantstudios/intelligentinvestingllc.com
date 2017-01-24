@@ -1,7 +1,7 @@
 # Site settings
-title: "Jekyll Base"
+title: "Intelligent Investing, LLC."
 email: "team@variantstudios.com"
-description: "Our base repo for jekyll-based sites"
+description: "Tax efficient investing and financial life planning."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
@@ -19,34 +19,12 @@ permalink: pretty
 
 # Pagination
 paginate: 10
-paginate_path: '/blog/:num/'
+paginate_path: '/:num/'
 
 #Collections
 collections:
-  posts:
-    output: true
-    permalink: '/blog/:title/'
-  people:
-    output: false
-  categories:
-    output: true
-    permalink: '/blog/:title/'
-  tags:
-    output: true
-    permalink: '/blog/:title/'
 
 defaults:
-  -
-    scope:
-      type: posts
-    values:
-      layout: post
-      title:
-      image_path:
-      description:
-      author:
-      category:
-      tags:
 
 # typekit - Because we all need nice type faces.
 typekit:
