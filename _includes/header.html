@@ -1,9 +1,26 @@
-<header itemscope class="wrap clearfix">
-  <div class="site-name logo">
-    <a href="/"><img src="/assets/images/logo.svg" alt="{{site.title}}"></a>
-  </div>
-  <div class="menu-btn">Open Menu</div>
-  <nav class="main-nav">
-    {% include nav.html nav=site.data.menu %}
-  </nav>
+<header itemscope class="top-header-wrapper clearfix">
+    <div class="wrap clearfix">
+        <div class="left">
+            <span class="tel editable"><a href="#">970-692-7082</a></span> | <span class="email editable"><a href="#">info@intelligentinvestingllc.com</a></span>
+        </div>
+        <div class="right">
+            <div class="menu-btn">Open Menu</div>
+            <nav class="main-nav">
+              {% include nav.html nav=site.data.menu %}
+            </nav>
+        </div>
+    </div>
+</header>
+
+<header itemscope class="bottom-header-wrapper clearfix">
+    <div class="wrap clearfix">
+        <div class="left">
+            <div class="site-name logo">
+              <a href="/"><img src="/assets/images/logo.svg" alt="{{site.title}}"></a>
+            </div>
+        </div>
+        <div class="right">
+            <a href="#" class="six-steps-btn">6 Steps to Intelligent Investing</a>
+        </div>
+    </div>
 </header>

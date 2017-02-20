@@ -1,0 +1,32 @@
+.top-header-wrapper  {
+  padding: .5em 0;
+  background: #363636;
+  color: #fff;
+}
+.bottom-header-wrapper  {
+    padding: 2.5em 0;
+    background: #fff;
+}
+.title-header {
+    background: #34b272;
+    text-align: center;
+    padding: 4em 0;
+    h1 {
+        font-size: 2.5em;
+        font-weight: normal;
+        color: #fff;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+a.six-steps-btn {
+    padding: 1em 2em;
+    color: #404040;
+    border: solid 2px #404040;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 3em;
+}
