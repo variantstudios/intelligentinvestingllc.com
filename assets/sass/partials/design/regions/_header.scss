@@ -1,16 +1,25 @@
-.logo {
-  text-align: center;
-  @include breakpoint($bp-medium, $no-query: ".no-mq") {
-    @include grid-span(4,1,$gutter:0);
+.top-header-wrapper  {
+  .left {
+      @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        @include grid-span(4,1);
+      }
+  }
+  .right {
+      @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        @include grid-span(8,5);
+      }
   }
 }
-.main-nav {
-  @include breakpoint($bp-medium, $no-query: ".no-mq") {
-    @include grid-span(8,5);
+.bottom-header-wrapper  {
+  .left {
+      @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        @include grid-span(4,1);
+      }
   }
-}
-
-.header-wrapper  {
-  padding: 1em 0;
-  background: $header-bg;
+  .right {
+      @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        @include grid-span(8,5);
+        text-align: right;
+      }
+  }
 }

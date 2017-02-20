@@ -11,7 +11,7 @@
     padding: 0;
     @include breakpoint($bp-medium, $no-query: '.no-mq') {
       display: inline-block;
-      line-height: 3em;
+      line-height: 1em;
     }
     a {
       font-weight: 500;
@@ -19,7 +19,7 @@
       transition: color .5s ease;
       padding: .75em 1em;
       display: block;
-      color: #000;
+      color: #fff;
       text-transform: uppercase;
       @include breakpoint($bp-medium, $no-query: '.no-mq') {
         margin-left: 1.5em;
