@@ -1,10 +1,10 @@
 - text: Home
   url: /
-- text: Contact
-  url: /contact/
 - text: About
   url: /about/
 - text: FAQ
   url: /faq/
+- text: Contact
+  url: /contact/
 - text: Schedule a Meeting
   url: /schedule-a-meeting/
