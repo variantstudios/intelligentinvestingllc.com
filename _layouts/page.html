@@ -13,6 +13,8 @@ layout: default
       {% include contact-form.html %}
       {% elsif page.url contains "faq" %}
         {% include faq.html %}
+        {% elsif page.url contains "schedule-a-meeting" %}
+          {% include schedule-a-meeting-form.html %}
     {% endif %}
   </section>
 </main>
