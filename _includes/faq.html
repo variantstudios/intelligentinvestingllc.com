@@ -1,0 +1,8 @@
+<div class="faq-list">
+  {% for item in site.data.faq %}
+    <div class="person clearfix">
+        <h3>{{ item.question }}</h3>
+      {{ item.answer_html }}
+    </div>
+  {% endfor %}
+</div>
