@@ -1,7 +1,7 @@
 ---
 title: "STEP 6 - Legacy Planning"
 header_image_path:
-sub_steps:
+sections:
   - title: ""
     description_html: ""
     image_path:
