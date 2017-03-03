@@ -2,15 +2,23 @@
   padding: .5em 0;
   background: #363636;
   color: #fff;
+  font-family: $heading-font-family;
+  font-weight: bold;
+  a {
+      color: #fff;
+      text-decoration: none;
+  }
 }
 .bottom-header-wrapper  {
     padding: 2.5em 0;
     background: #fff;
 }
 .title-header {
-    background: #34b272;
+    //background: #34b272;
     text-align: center;
     padding: 4em 0;
+    background: url("/assets/images/background.png")  no-repeat center;
+    background-size: cover;
     h1 {
         font-size: 2.5em;
         font-weight: normal;
@@ -29,4 +37,12 @@ a.six-steps-btn {
     font-size: 1.2em;
     font-weight: bold;
     line-height: 3em;
+    font-family: $heading-font-family;
+    font-weight: 600;
+    transition: all .5s ease-out;
+    &:hover {
+        color: #fff;
+        background: #404040;
+        transition: all .3s  ease-in;
+    }
 }

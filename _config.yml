@@ -27,7 +27,7 @@ collections:
 defaults:
 
 # typekit - Because we all need nice type faces.
-typekit:
+typekit: "oes5yjr"
 
 # Google Analytics - What site isn't using it?!
 google_analytics_tracking_id:
