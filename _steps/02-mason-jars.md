@@ -11,8 +11,8 @@ sections:
   - title: "Mason Jars for Investors in Later Stages of Life"
     description_html: ""
     image_path:    
-layout: page
 search_engine_optimization:
   page_title: "STEP 2 - Mason Jars"
   page_description: ""
+layout: page
 ---
