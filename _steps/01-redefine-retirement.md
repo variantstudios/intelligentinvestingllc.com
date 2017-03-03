@@ -11,8 +11,8 @@ sections:
   - title: "Don't Wait"
     description_html: "You don't need to save everything for 30+ years down the road.  We can figure out how to save for the long-term while still living the retirement state of mind now.  There are certain things you may not be able to do when you are older."
     image_path:    
-layout: page
 search_engine_optimization:
   page_title: "STEP 1 - Redefine Retirement"
   page_description: ""
+layout: page
 ---
