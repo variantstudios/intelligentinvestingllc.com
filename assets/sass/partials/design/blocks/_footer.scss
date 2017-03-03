@@ -1,4 +1,9 @@
-.site-footer {
+footer.site-footer {
+    padding: 2em 0;
+    font-family: $heading-font-family;
+    a {
+        text-decoration: none;
+    }
     .left {
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
           @include grid-span(6,1);
