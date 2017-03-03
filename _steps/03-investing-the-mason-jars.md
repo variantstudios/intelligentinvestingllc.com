@@ -1,7 +1,7 @@
 ---
 title: "STEP 3 - Investing the Mason Jars"
 header_image_path:
-steps:
+sub_steps:
   - title: "What to Accomplish Within the Investment Strategy"
     description_html: ""
     image_path:

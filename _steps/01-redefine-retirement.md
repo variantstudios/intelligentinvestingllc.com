@@ -1,7 +1,7 @@
 ---
 title: "STEP 1 - Redefine Retirement"
-header_image_path: 
-steps:
+header_image_path:
+sub_steps:
   - title: "How to Rethink Retirement"
     description_html: "We should stop looking at retirement as a noun or a time in our life. Instead look at retirement as a state of mind.  It is when we are at our happiest and free of stress."
     image_path:
