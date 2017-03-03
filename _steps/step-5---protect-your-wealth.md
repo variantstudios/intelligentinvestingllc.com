@@ -2,17 +2,22 @@
 title: STEP 5 - Protect Your Wealth
 header_image_path:
 sections:
-  - title: How to Rethink Retirement
-    description_html: '<p>We should stop looking at retirement as a noun or a time in our life. Instead look at retirement as a state of mind. It is when we are at our happiest and free of stress.</p>'
+  - title:
+    description_html: '<p>Now that we have identified all your passions, organized your funds into mason jars, and have tax efficiently invested everything, it is time to protect your wealth in the case of a catastrophic event.</p>'
     image_path:
-  - title: Steps We Can Take Now
-    description_html: "<ol><li>Identify what truly makes you happy in life on a deep and visceral level.</li><li>Figure out how to incorporate some of the small things that make you happy into your daily activities.</li><li>For the larger, more expensive items, try to work them into your budget and maybe sacrifice some expenses that don't make you as happy.</li></ol>"
+  - title:
+    description_html: '<p>If you have a family or if there are people in your life who will be financially effected in the case of your passing, you should look at a life insurance policy. There are many different types of life insurance products and most of them can be confusing and costly. The easiest way to protect your family is through a term life insurance policy. You can purchase however much insurance is needed over a defined period of years for a low cost.</p>'
     image_path:
-  - title: "Don't Wait"
-    description_html: "<p>You don't need to save everything for 30+ years down the road. We can figure out how to save for the long-term while still living the retirement state of mind now. There are certain things you may not be able to do when you are older.</p>"
+  - title:
+    description_html: '<p>The need for disability insurance depends on your line of work and how you would be affected if you got injured or inflicted with a serious disease. You can buy different policies ranging from short to long term needs and covering different percentages of your wages.</p>'
+    image_path:
+  - title: Long Term Care
+    description_html: '<p>The last area to look at is protecting against the need for a long term care facility. This could significantly increase your budget in the later stages of your life and deplete your assets. You can purchase insurance and/or self fund this potential need. The important thing is to be aware of this when planning and we can come up with the appropriate strategy.</p>'
     image_path:
 search_engine_optimization:
   page_title: STEP 1 - Redefine Retirement
   page_description:
 layout: page
 ---
+
+
