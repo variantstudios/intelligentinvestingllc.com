@@ -1,11 +1,13 @@
 ---
 title: Contact
-permalink: "/contact/"
+permalink: /contact/
 description: Contact page description.
 layout: page
 ---
+
+
 Intelligent Investing
-1635 Foxtrail Drive
-Loveland, CO 80538
-(970) 776-4346
-info@intelligentinvestingllc.com
+<br>1635 Foxtrail Drive
+<br>Loveland, CO 80538
+<br>(970) 776-4346
+<br>​info@intelligentinvestingllc.com
