@@ -15,7 +15,7 @@ sections:
     description_html: '<p>The last area to look at is protecting against the need for a long term care facility. This could significantly increase your budget in the later stages of your life and deplete your assets. You can purchase insurance and/or self fund this potential need. The important thing is to be aware of this when planning and we can come up with the appropriate strategy.</p>'
     image_path:
 search_engine_optimization:
-  page_title: STEP 1 - Redefine Retirement
+  page_title: STEP 5 - Protect Your Wealth
   page_description:
 layout: page
 ---
