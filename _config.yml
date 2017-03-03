@@ -19,6 +19,8 @@ permalink: pretty
 #Collections
 collections:
   steps:
+    output: true
+    permalink: '/steps/:title/'
 
 defaults:
 
