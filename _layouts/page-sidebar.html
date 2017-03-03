@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-
+<div class="title-header">
+      <section class="wrap">
+          <h1 class="pagetitle">{{ page.title }}</h1>
+      </section>
+</div>
 <main>
   <section class="wrap with-sidebar">
-    <h1 class="pagetitle">{{ page.title }}</h1>
-    {% if page.subtitle %}
-      <h2 class="subtitle">{{ page.subtitle }}</h2>
-    {% endif %}
-    <div>{{ content }}</div>
+      <div class="content-with-sidebar">
+          <div>{{ content }}</div>
+      </div>
+      <aside class="sidebar">
+          <img src="{{page.headshot}}" alt="{{page.title}}">
+          <a href="#" class="btn--schedule-meeting">Schedule Meeting</a>
+      </aside>
   </section>
-  {% include sidebar.html %}
 </main>

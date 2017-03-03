@@ -560,6 +560,85 @@ footer.site-footer a {
   text-align: right;
 }
 
+/* line 1, ../sass/partials/design/blocks/_buttons.scss */
+a.btn {
+  background-image: -webkit-linear-gradient(225deg, #2cb671 0%, #006658 100%);
+  background-image: linear-gradient(-135deg, #2cb671 0%, #006658 100%);
+  -webkit-box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.18);
+          box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.18);
+  border-radius: 4px;
+  padding: 2em 4em;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+}
+
+/* line 2, ../sass/partials/design/pages/_front.scss */
+.front .title-header {
+  height: 520px;
+}
+/* line 5, ../sass/partials/design/pages/_front.scss */
+.front .front-video {
+  text-align: center;
+  margin-top: -350px;
+}
+/* line 8, ../sass/partials/design/pages/_front.scss */
+.front .front-video iframe {
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+}
+/* line 13, ../sass/partials/design/pages/_front.scss */
+.front .home.wrap {
+  width: 900px;
+  padding: 2em 0;
+}
+/* line 17, ../sass/partials/design/pages/_front.scss */
+.front .left {
+  text-align: center;
+}
+@media (min-width: 50em) {
+  /* line 17, ../sass/partials/design/pages/_front.scss */
+  .front .left {
+    width: 48.93617%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+}
+/* line 92, ../../vendor/bundle/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss */
+.no-mq .front .left {
+  width: 48.93617%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none;
+}
+/* line 23, ../sass/partials/design/pages/_front.scss */
+.front .right {
+  text-align: center;
+}
+@media (min-width: 50em) {
+  /* line 23, ../sass/partials/design/pages/_front.scss */
+  .front .right {
+    width: 48.93617%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+/* line 92, ../../vendor/bundle/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss */
+.no-mq .front .right {
+  width: 48.93617%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}
+
 /* line 1, ../sass/partials/design/regions/_footer.scss */
 .footer-wrapper {
   background: #ededed;
@@ -671,7 +750,7 @@ html {
           box-sizing: border-box;
   height: 100%;
 }
-/* line 4, ../sass/partials/design/regions/_body.scss */
+/* line 5, ../sass/partials/design/regions/_body.scss */
 html body {
   margin: 0;
   height: 100%;
@@ -679,13 +758,15 @@ html body {
   overflow-x: hidden;
 }
 
-/* line 11, ../sass/partials/design/regions/_body.scss */
-*, *:before, *:after {
+/* line 13, ../sass/partials/design/regions/_body.scss */
+*,
+*:after,
+*:before {
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
 }
 
-/* line 13, ../sass/partials/design/regions/_body.scss */
+/* line 19, ../sass/partials/design/regions/_body.scss */
 .wrap {
   max-width: 1200px;
   margin: 0 auto;
@@ -697,15 +778,57 @@ html body {
   clear: both;
 }
 
-/* line 19, ../sass/partials/design/regions/_body.scss */
+/* line 25, ../sass/partials/design/regions/_body.scss */
 .site-wrapper {
   margin: 0 auto;
   max-width: 1200px;
 }
 
-/* line 24, ../sass/partials/design/regions/_body.scss */
-main, header, footer, section, aside {
+/* line 30, ../sass/partials/design/regions/_body.scss */
+aside,
+footer,
+header,
+main,
+section {
   display: block;
+}
+
+@media (min-width: 50em) {
+  /* line 38, ../sass/partials/design/regions/_body.scss */
+  .sidebar {
+    width: 23.40426%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+}
+/* line 92, ../../vendor/bundle/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss */
+.no-mq .sidebar {
+  width: 23.40426%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none;
+}
+
+@media (min-width: 50em) {
+  /* line 44, ../sass/partials/design/regions/_body.scss */
+  .content-with-sidebar {
+    width: 74.46809%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+/* line 92, ../../vendor/bundle/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss */
+.no-mq .content-with-sidebar {
+  width: 74.46809%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
 }
 
 /* line 2, ../sass/partials/design/views/_team.scss */
