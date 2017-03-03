@@ -1,5 +1,12 @@
 <div class="faq-list">
   {% for item in site.data.faq %}
+   <!-- Editor Link -->
+      <div class="edit-link">
+        <a href="cloudcannon:collections/{{ item.relative_path }}">
+          <img src="/assets/images/icons/settings.svg" alt="settings">
+          <span>Edit</span>
+        </a>
+      </div>
     <div class="person clearfix">
         <h3>{{ item.question }}</h3>
       {{ item.answer_html }}
