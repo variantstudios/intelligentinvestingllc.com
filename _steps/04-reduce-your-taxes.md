@@ -1,7 +1,7 @@
 ---
 title: "STEP 4 - Reduce Your Taxes"
 header_image_path:
-sub_steps:
+sections:
   - title: "Save Taxes on the Account Level"
     description_html: ""
     image_path:
