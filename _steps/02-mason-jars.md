@@ -1,7 +1,7 @@
 ---
 title: "STEP 2 - Mason Jars"
 header_image_path:
-sub_steps:
+sections:
   - title: "What is a Mason Jar?"
     description_html: ""
     image_path:
