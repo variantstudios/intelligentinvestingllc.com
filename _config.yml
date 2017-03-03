@@ -6,8 +6,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lemon-lemur.cloudvent.net" # the base hostname & protocol for your site
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
 version: "3.2.1" # the version of jekyll
-author.name: "Variant Studios"
-author.email: "team@variantstudios.com"
 
 # Gems for plugins
 gems:
@@ -17,9 +15,6 @@ gems:
 # Permalinks
 permalink: pretty
 
-# Pagination
-paginate: 10
-paginate_path: '/:num/'
 
 #Collections
 collections:
