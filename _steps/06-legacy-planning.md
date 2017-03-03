@@ -14,8 +14,8 @@ sections:
   - title: ""
     description_html: "Most people put together great strategies to help family members and charitable causes after they pass away.  To maximize your happiness we should look at potentially addressing these causes while you are alive so you can see the fruits of your labor.  It is important to take care of yourself first, but once that is done you may be able to spend some of your legacy planning and enjoy it while you are alive."
     image_path:    
-layout: page
 search_engine_optimization:
   page_title: "STEP 6 - Legacy Planning"
   page_description: ""
+layout: page
 ---
