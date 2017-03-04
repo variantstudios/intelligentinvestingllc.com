@@ -23,6 +23,20 @@ collections:
     permalink: '/steps/:title/'
 
 defaults:
+  -
+    scope:
+      type: steps
+    values:
+      layout: page
+      title:
+      header_image_path:
+      sections:
+        - title: 
+          description_html:
+          image_path:
+      search_engine_optimization:
+        page_title: 
+        page_description:
 
 # typekit - Because we all need nice type faces.
 typekit: "oes5yjr"
