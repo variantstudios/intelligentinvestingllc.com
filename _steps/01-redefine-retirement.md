@@ -14,7 +14,4 @@ sections:
 search_engine_optimization:
   page_title: STEP 1 - Redefine Retirement
   page_description:
-layout: page
 ---
-
-

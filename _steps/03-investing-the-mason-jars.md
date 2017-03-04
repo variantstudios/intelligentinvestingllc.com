@@ -11,7 +11,4 @@ sections:
 search_engine_optimization:
   page_title: STEP 3 - Investing the Mason Jars
   page_description:
-layout: page
 ---
-
-

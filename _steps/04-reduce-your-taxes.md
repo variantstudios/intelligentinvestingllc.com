@@ -14,7 +14,4 @@ sections:
 search_engine_optimization:
   page_title: STEP 4 - Reduce Your Taxes
   page_description:
-layout: page
 ---
-
-

@@ -14,7 +14,4 @@ sections:
 search_engine_optimization:
   page_title: STEP 2 - Mason Jars
   page_description:
-layout: page
 ---
-
-

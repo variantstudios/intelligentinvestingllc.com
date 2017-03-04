@@ -17,7 +17,4 @@ sections:
 search_engine_optimization:
   page_title: STEP 5 - Protect Your Wealth
   page_description:
-layout: page
 ---
-
-

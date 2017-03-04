@@ -1,0 +1,8 @@
+<section class="steps-wrapper">
+
+  {% for step in paginator.posts %}
+    <article class="step-item clearfix">
+        <a href="{{step.url}}"><h3>{{step.title}}</h3></a>
+    </article>
+  {% endfor %}
+</section>
