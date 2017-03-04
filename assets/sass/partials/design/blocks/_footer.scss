@@ -5,6 +5,7 @@ footer.site-footer {
         text-decoration: none;
     }
     .left {
+        text-align: left;
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
           @include grid-span(6,1);
         }

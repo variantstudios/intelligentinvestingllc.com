@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+
+<main class="gallery-detail-node">
+  <div class="wrap">
+    <!-- <h1 class="gallery-title">{{ page.title }}</h1> -->
+
+    {% if page.sections %}
+      <div class="gallery-service-section">
+
+          {% for item in page.sections %}
+            <h3>{{ item.title }}</h3>
+            <div>{{ item.description_html }}</div>
+          {% endfor %}
+          
+      </div>
+    {% endif %}
+  </div>
+  <div class="wrap">
+
+     <ul class="pager">
+         {% if page.previous.url %}
+         <li class="previous left">
+             <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.title | truncate: 50 }}</a> {% endif %} {% if page.next.url %}
+         </li>{% endif %}
+          {% if page.next.url %}
+         <li class="next right">
+             <a class="next" href="{{page.next.url}}">{{ page.next.title | truncate: 50 }} &raquo;</a>
+         </li>
+     </ul>
+     {% endif %}
+  </div>
+</main>

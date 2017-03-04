@@ -1,0 +1,57 @@
+ul.pager {
+    //border-top: 1px solid #bfbfbf;
+    li {
+        padding-bottom: 1em;
+        a {
+            border: solid 2px #404040;
+            color: #404040;
+            text-decoration: none;
+            border-radius: 3px;
+            font-family: "futura-pt", sans-serif;
+            padding: 0.75em 1.5em;
+            font-weight: 700;
+            text-transform: uppercase;
+            cursor: pointer;
+            display: inline-block;
+            font-size: 0.9em;
+            transition: all .5s, transform .5s ease-out;
+            &:hover {
+                color: #fff;
+                background: #404040;
+                transition: all .5s, transform .5s ease-out;
+            }
+        }
+    }
+
+/*
+padding: 1em 2em;
+color: #404040;
+border: solid 2px #404040;
+border-radius: 4px;
+text-decoration: none;
+font-size: 1.2em;
+font-weight: bold;
+line-height: 3em;
+font-family: $heading-font-family;
+font-weight: 600;
+transition: all .5s ease-out;
+&:hover {
+    color: #fff;
+    background: #404040;
+    transition: all .3s  ease-in;
+}
+*/
+
+    .left {
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+             @include grid-span(6,1,$gutter:0);
+        }
+    }
+
+    .right {
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+             @include grid-span(6,7,$gutter:0);
+            text-align: right;
+        }
+    }
+}

@@ -295,18 +295,12 @@ table.sticky-enabled thead th, table.sticky-header thead th {
 ul.pager {
   margin: 1em 0 0;
   padding: 1em 0 0;
-  border-top: 1px solid #239e63;
 }
 /* line 5, ../sass/partials/styleguide/misc/_pager.scss */
 ul.pager li {
   display: inline-block;
   list-style: none;
   padding-right: .5em;
-  color: #0f7abd;
-}
-/* line 10, ../sass/partials/styleguide/misc/_pager.scss */
-ul.pager li a:visited {
-  color: #0f7abd;
 }
 
 /* line 1, ../sass/partials/design/blocks/_header.scss */
@@ -317,26 +311,30 @@ ul.pager li a:visited {
   font-family: "proxima-nova-condensed", sans-serif;
   font-weight: bold;
 }
-/* line 7, ../sass/partials/design/blocks/_header.scss */
+/* line 2, ../sass/partials/design/blocks/_header.scss */
+.top-header-wrapper .left {
+  text-align: left  !important;
+}
+/* line 10, ../sass/partials/design/blocks/_header.scss */
 .top-header-wrapper a {
   color: #fff;
   text-decoration: none;
 }
 
-/* line 12, ../sass/partials/design/blocks/_header.scss */
+/* line 15, ../sass/partials/design/blocks/_header.scss */
 .bottom-header-wrapper {
   padding: 2.5em 0;
   background: #fff;
 }
 
-/* line 16, ../sass/partials/design/blocks/_header.scss */
+/* line 19, ../sass/partials/design/blocks/_header.scss */
 .title-header {
   text-align: center;
   padding: 4em 0;
   background: url("/assets/images/background.png") no-repeat center;
   background-size: cover;
 }
-/* line 22, ../sass/partials/design/blocks/_header.scss */
+/* line 25, ../sass/partials/design/blocks/_header.scss */
 .title-header h1 {
   font-size: 2.5em;
   font-weight: normal;
@@ -345,7 +343,7 @@ ul.pager li a:visited {
   margin: 0;
 }
 
-/* line 31, ../sass/partials/design/blocks/_header.scss */
+/* line 34, ../sass/partials/design/blocks/_header.scss */
 a.six-steps-btn {
   padding: 1em 2em;
   color: #404040;
@@ -360,7 +358,7 @@ a.six-steps-btn {
   -webkit-transition: all .5s ease-out;
           transition: all .5s ease-out;
 }
-/* line 43, ../sass/partials/design/blocks/_header.scss */
+/* line 46, ../sass/partials/design/blocks/_header.scss */
 a.six-steps-btn:hover {
   color: #fff;
   background: #404040;
@@ -521,6 +519,10 @@ footer.site-footer {
 footer.site-footer a {
   text-decoration: none;
 }
+/* line 7, ../sass/partials/design/blocks/_footer.scss */
+footer.site-footer .left {
+  text-align: left;
+}
 @media (min-width: 50em) {
   /* line 7, ../sass/partials/design/blocks/_footer.scss */
   footer.site-footer .left {
@@ -540,7 +542,7 @@ footer.site-footer a {
   clear: none;
 }
 @media (min-width: 50em) {
-  /* line 12, ../sass/partials/design/blocks/_footer.scss */
+  /* line 13, ../sass/partials/design/blocks/_footer.scss */
   footer.site-footer .right {
     width: 48.93617%;
     float: right;
@@ -573,6 +575,93 @@ a.btn {
   text-decoration: none;
   -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
           box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+}
+
+/* line 1, ../sass/partials/design/blocks/_paginator.scss */
+ul.pager {
+  /*
+  padding: 1em 2em;
+  color: #404040;
+  border: solid 2px #404040;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 3em;
+  font-family: $heading-font-family;
+  font-weight: 600;
+  transition: all .5s ease-out;
+  &:hover {
+      color: #fff;
+      background: #404040;
+      transition: all .3s  ease-in;
+  }
+  */
+}
+/* line 3, ../sass/partials/design/blocks/_paginator.scss */
+ul.pager li {
+  padding-bottom: 1em;
+}
+/* line 5, ../sass/partials/design/blocks/_paginator.scss */
+ul.pager li a {
+  border: solid 2px #404040;
+  color: #404040;
+  text-decoration: none;
+  border-radius: 3px;
+  font-family: "futura-pt", sans-serif;
+  padding: 0.75em 1.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.9em;
+  -webkit-transition: all .5s, -webkit-transform .5s ease-out;
+          transition: all .5s, transform .5s ease-out;
+}
+/* line 18, ../sass/partials/design/blocks/_paginator.scss */
+ul.pager li a:hover {
+  color: #fff;
+  background: #404040;
+  -webkit-transition: all .5s, -webkit-transform .5s ease-out;
+          transition: all .5s, transform .5s ease-out;
+}
+@media (min-width: 50em) {
+  /* line 45, ../sass/partials/design/blocks/_paginator.scss */
+  ul.pager .left {
+    width: 50%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+}
+/* line 92, ../../vendor/bundle/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss */
+.no-mq ul.pager .left {
+  width: 50%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none;
+}
+@media (min-width: 50em) {
+  /* line 51, ../sass/partials/design/blocks/_paginator.scss */
+  ul.pager .right {
+    width: 50%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+    text-align: right;
+  }
+}
+/* line 92, ../../vendor/bundle/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss */
+.no-mq ul.pager .right {
+  width: 50%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+  text-align: right;
 }
 
 /* line 2, ../sass/partials/design/pages/_front.scss */

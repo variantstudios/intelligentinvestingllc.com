@@ -17,7 +17,4 @@ sections:
 search_engine_optimization:
   page_title: STEP 6 - Legacy Planning
   page_description:
-layout: page
 ---
-
-
