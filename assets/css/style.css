@@ -518,13 +518,22 @@ footer.site-footer {
 /* line 4, ../sass/partials/design/blocks/_footer.scss */
 footer.site-footer a {
   text-decoration: none;
+  color: #28b370;
+  -webkit-transition: all .3s  ease-in;
+          transition: all .3s  ease-in;
 }
-/* line 7, ../sass/partials/design/blocks/_footer.scss */
+/* line 8, ../sass/partials/design/blocks/_footer.scss */
+footer.site-footer a:hover {
+  color: #3d3d3d;
+  -webkit-transition: all .3s  ease-in;
+          transition: all .3s  ease-in;
+}
+/* line 13, ../sass/partials/design/blocks/_footer.scss */
 footer.site-footer .left {
   text-align: left;
 }
 @media (min-width: 50em) {
-  /* line 7, ../sass/partials/design/blocks/_footer.scss */
+  /* line 13, ../sass/partials/design/blocks/_footer.scss */
   footer.site-footer .left {
     width: 48.93617%;
     float: left;
@@ -542,7 +551,7 @@ footer.site-footer .left {
   clear: none;
 }
 @media (min-width: 50em) {
-  /* line 13, ../sass/partials/design/blocks/_footer.scss */
+  /* line 19, ../sass/partials/design/blocks/_footer.scss */
   footer.site-footer .right {
     width: 48.93617%;
     float: right;
@@ -560,6 +569,27 @@ footer.site-footer .left {
   margin-right: 0;
   clear: none;
   text-align: right;
+}
+/* line 24, ../sass/partials/design/blocks/_footer.scss */
+footer.site-footer .right ul.menu {
+  margin-bottom: .8em;
+}
+/* line 26, ../sass/partials/design/blocks/_footer.scss */
+footer.site-footer .right ul.menu li a {
+  font-weight: normal;
+  color: #28b370;
+  -webkit-transition: all .3s  ease-in;
+          transition: all .3s  ease-in;
+}
+/* line 30, ../sass/partials/design/blocks/_footer.scss */
+footer.site-footer .right ul.menu li a:hover {
+  color: #3d3d3d;
+  -webkit-transition: all .3s  ease-in;
+          transition: all .3s  ease-in;
+}
+/* line 36, ../sass/partials/design/blocks/_footer.scss */
+footer.site-footer .right .bottom p {
+  margin-bottom: 1em;
 }
 
 /* line 1, ../sass/partials/design/blocks/_buttons.scss */

@@ -3,6 +3,12 @@ footer.site-footer {
     font-family: $heading-font-family;
     a {
         text-decoration: none;
+        color: #28b370;
+        transition: all .3s  ease-in;
+        &:hover {
+                color: #3d3d3d;
+                transition: all .3s  ease-in;
+        }
     }
     .left {
         text-align: left;
@@ -14,6 +20,21 @@ footer.site-footer {
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
           @include grid-span(6,7);
           text-align: right;
+        }
+        ul.menu {
+            margin-bottom: .8em;
+            li a {
+                font-weight: normal;
+                color: #28b370;
+                transition: all .3s  ease-in;
+                &:hover {
+                        color: #3d3d3d;
+                        transition: all .3s  ease-in;
+                }
+            }
+        }
+        .bottom p {
+            margin-bottom: 1em;
         }
     }
 }

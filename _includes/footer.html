@@ -5,7 +5,9 @@
     </div>
 
     <div class="right">
-    
+        <div class="top">
+             {% include nav.html nav=site.data.bottom-menu %}
+        </div>
         <div class="bottom">
             <p>Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} All Rights Reserved.</p>
             <p>Site by: <a href="https://www.variantstudios.com" target="_blank">Variant Studios</a></p>
