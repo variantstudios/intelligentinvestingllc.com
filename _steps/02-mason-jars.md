@@ -1,6 +1,6 @@
 ---
 title: STEP 2 - Mason Jars
-header_image_path:
+header_image_path: "/assets/images/steps/Mason-Jars.jpg"
 sections:
   - title: What is a Mason Jar?
     description_html: '<p>Now that we have identified our passions and what makes us truly happy, we need an organized way to save and invest so we can live them out and cover all our other expenses.</p><p>Criteria for a Mason Jar:</p><ul><li>It has to have a specific passion or goal tied into a financial objective.</li><li>The financial objective needs to be tied into an investment strategy unique to that mason jar.</li><li>Address the most important mason jars first (take care of yourself before trying help others).</li><li>Jars are funded with current assets and future savings.</li></ul>'

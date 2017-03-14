@@ -1,6 +1,6 @@
 ---
 title: STEP 3 - Investing the Mason Jars
-header_image_path:
+header_image_path: "/assets/images/steps/Investing-the-Mason-Jars.jpg"
 sections:
   - title: What to Accomplish Within the Investment Strategy
     description_html: '<p>After the Mason Jars are set up, an investment strategy needs to be assigned to each mason jar:</p><ul><li>Needs to be tax efficient with account structure and investment selection</li><li>The strategy needs to address reaching the goal of the jar with the least amount of risk possible</li></ul>'

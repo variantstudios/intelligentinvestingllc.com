@@ -1,6 +1,6 @@
 ---
 title: STEP 5 - Protect Your Wealth
-header_image_path:
+header_image_path: "/assets/images/steps/Protect-Your-Wealth.jpg"
 sections:
   - title:
     description_html: '<p>Now that we have identified all your passions, organized your funds into mason jars, and have tax efficiently invested everything, it is time to protect your wealth in the case of a catastrophic event.</p>'
