@@ -2,62 +2,40 @@
 layout: default
 ---
 
-<div class="title-header" style="text-align: center;
-    padding: 15em 0;
-    background: url({{page.header_image_path}}) no-repeat bottom;
-    background-size: cover;
-    position: relative;">
-      <section class="">
-          <h1 class="pagetitle" style="    font-size: 2.5em;
-    font-weight: 400;
-    color: #fff;
-    padding: 0;
-    display: block;
-    margin: 0;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    width: 100%;
-    padding: 1em 2em;
-    background: -webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,0)),to(rgba(39,39,39,.9)));
-    background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0,rgba(39,39,39,.9) 100%);
-    background: linear-gradient(to bottom,rgba(0,0,0,0) 0,rgba(39,39,39,.9) 100%);">{{ page.title }}</h1>
-      </section>
+<div class="title-header step" style="background: url({{page.header_image_path}}) no-repeat bottom; background-size: cover;">
+    <h1 class="pagetitle step">{{ page.title }}</h1>
 </div>
 
 
-  <section class="wrap">
+<section class="wrap">
+    <main class="step-detail-node">
+        <div class="">
+            {% if page.sections %}
+            <div class="gallery-service-section">
 
-<main class="step-detail-node">
-  <div class="">
-    {% if page.sections %}
-      <div class="gallery-service-section">
+                {% for item in page.sections %}
+                <h3>{{ item.title }}</h3>
+                <div>{{ item.description_html }}</div>
+                {% endfor %}
 
-          {% for item in page.sections %}
-            <h3>{{ item.title }}</h3>
-            <div>{{ item.description_html }}</div>
-          {% endfor %}
-
-      </div>
-    {% endif %}
-  </div>
+            </div>
+            {% endif %}
+        </div>
 
 
-  <div class="wrap">
-
-     <ul class="pager">
-         {% if page.previous.url %}
-         <li class="previous left">
-             <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.title | truncate: 50 }}</a> {% endif %} {% if page.next.url %}
-         </li>{% endif %}
-          {% if page.next.url %}
-         <li class="next right">
-             <a class="next" href="{{page.next.url}}">{{ page.next.title | truncate: 50 }} &raquo;</a>
-         </li>
-     </ul>
-     {% endif %}
-  </div>
-</main>
+        <div class="wrap">
+            <ul class="pager">
+                {% if page.previous.url %}
+                <li class="previous left">
+                    <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.title | truncate: 50 }}</a> {% endif %} {% if page.next.url %}
+                </li>{% endif %} {% if page.next.url %}
+                <li class="next right">
+                    <a class="next" href="{{page.next.url}}">{{ page.next.title | truncate: 50 }} &raquo;</a>
+                </li>
+            </ul>
+            {% endif %}
+        </div>
+    </main>
 
 
 </section>

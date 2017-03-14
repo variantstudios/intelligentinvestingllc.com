@@ -1,0 +1,70 @@
+
+@keyframes yellow-fade {
+   0% {background: lightgoldenrodyellow;}
+   100% {background: none;}
+}
+
+.toggle-inner.active {
+   -webkit-animation: yellow-fade 2s ease-in 1;
+   animation: yellow-fade 2s ease-in 1;
+}
+
+$lightgrey: #ededed;
+
+.toggle {
+    &:last-child {
+        border-bottom: 1px solid $lightgrey;
+    }
+    .toggle-title {
+        position: relative;
+        display: block;
+        border-top: 1px solid $lightgrey;
+        margin-bottom: 6px;
+        h3 {
+            transition: all .300s  ease-in;
+            color: #6d6d6d;
+            font-size: 20px;
+            margin: 0;
+            line-height: 1;
+            cursor: pointer;
+            font-weight: 200;
+        }
+        &.active h3{
+            transition: all .300s  ease-in;
+            color: #000;
+        }
+    }
+    .toggle-inner {
+        padding: 7px 25px 10px;
+        display: none;
+        margin: -7px 0 6px;
+        div {
+            max-width: 100%;
+        }
+    }
+    .toggle-title {
+        .title-name {
+            display: block;
+            padding: 25px 25px 14px;
+        }
+
+        a i {
+            font-size: 22px;
+            margin-right: 5px;
+        }
+
+        i {
+            position: absolute;
+            background: url('/assets/images/plus_minus.png') 0 -24px no-repeat;
+            width: 24px;
+            height: 24px;
+            transition: all 0.3s ease;
+            margin: 20px;
+            right: 0;
+        }
+
+        &.active i {
+            background: url('/assets/images/plus_minus.png') 0 0 no-repeat;
+        }
+    }
+}
