@@ -1,6 +1,6 @@
 ---
 title: STEP 4 - Reduce Your Taxes
-header_image_path:
+header_image_path: "/assets/images/steps/Reduce-Your-Taxes.jpg"
 sections:
   - title: Save Taxes on the Account Level
     description_html: '<p>Saving and deferring taxes is where we can make the most impact with the investment strategy of your mason jars. There are two main areas were this can be accomplished. The first is on the account level. By sheltering your funds in an IRA, Roth IRA or one of many retirement account options we can either cut your tax bill, defer taxes to a later date and/or reduce your tax bill when you are older.</p>'

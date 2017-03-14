@@ -1,6 +1,6 @@
 ---
 title: STEP 6 - Legacy Planning
-header_image_path:
+header_image_path: "/assets/images/steps/Legacy-Planning.jpg"
 sections:
   - title:
     description_html: '<p>The hardest part of planning is looking past your life and figuring out where you want your assets to go when you pass. The main considerations are:</p><ul><li>where you want your money to go</li><li>how you can do it tax efficiently</li><li>can you and do you want to utilize any of the assets while you are alive</li></ul>'

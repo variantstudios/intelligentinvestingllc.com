@@ -1,12 +1,35 @@
 ---
-layout: page
+layout: default
 ---
 
+<div class="title-header" style="text-align: center;
+    padding: 15em 0;
+    background: url({{page.header_image_path}}) no-repeat bottom;
+    background-size: cover;
+    position: relative;">
+      <section class="">
+          <h1 class="pagetitle" style="    font-size: 2.5em;
+    font-weight: 400;
+    color: #fff;
+    padding: 0;
+    display: block;
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    width: 100%;
+    padding: 1em 2em;
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,0)),to(rgba(39,39,39,.9)));
+    background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0,rgba(39,39,39,.9) 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0,rgba(39,39,39,.9) 100%);">{{ page.title }}</h1>
+      </section>
+</div>
 
-<main class="gallery-detail-node">
-  <div class="wrap">
-    <!-- <h1 class="gallery-title">{{ page.title }}</h1> -->
 
+  <section class="wrap">
+
+<main class="step-detail-node">
+  <div class="">
     {% if page.sections %}
       <div class="gallery-service-section">
 
@@ -14,10 +37,12 @@ layout: page
             <h3>{{ item.title }}</h3>
             <div>{{ item.description_html }}</div>
           {% endfor %}
-          
+
       </div>
     {% endif %}
   </div>
+
+
   <div class="wrap">
 
      <ul class="pager">
@@ -33,3 +58,6 @@ layout: page
      {% endif %}
   </div>
 </main>
+
+
+</section>

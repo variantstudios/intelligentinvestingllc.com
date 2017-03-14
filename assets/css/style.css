@@ -758,6 +758,12 @@ ul.pager li a:hover {
   clear: none;
 }
 
+/* line 2, ../sass/partials/design/pages/_step.scss */
+.step-detail-node h3 {
+  border-left: 4px solid #28b370;
+  padding-left: 1em;
+}
+
 /* line 1, ../sass/partials/design/regions/_footer.scss */
 .footer-wrapper {
   background: #ededed;
