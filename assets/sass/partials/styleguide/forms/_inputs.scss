@@ -12,3 +12,20 @@ input[type="text"], input[type="email"], input[type="name"], input[type="passwor
     outline: none;
   }
 }
+
+.webform-component {
+    label {
+        font-weight: bold;
+    }
+}
+.form-checkboxes .form-item {
+    display: inline-block;
+    .option {
+        margin-right: 1em;
+        font-weight: normal;
+        input {
+            margin-right: .8em;
+
+        }
+    }
+}
