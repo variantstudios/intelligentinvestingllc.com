@@ -190,6 +190,25 @@ input[type="text"]:active, input[type="text"]:focus, input[type="email"]:active,
   outline: none;
 }
 
+/* line 17, ../sass/partials/styleguide/forms/_inputs.scss */
+.webform-component label {
+  font-weight: bold;
+}
+
+/* line 21, ../sass/partials/styleguide/forms/_inputs.scss */
+.form-checkboxes .form-item {
+  display: inline-block;
+}
+/* line 23, ../sass/partials/styleguide/forms/_inputs.scss */
+.form-checkboxes .form-item .option {
+  margin-right: 1em;
+  font-weight: normal;
+}
+/* line 26, ../sass/partials/styleguide/forms/_inputs.scss */
+.form-checkboxes .form-item .option input {
+  margin-right: .8em;
+}
+
 /* line 1, ../sass/partials/styleguide/forms/_textarea.scss */
 textarea {
   width: 100%;
@@ -605,6 +624,21 @@ a.btn {
   text-decoration: none;
   -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
           box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+}
+
+/* line 17, ../sass/partials/design/blocks/_buttons.scss */
+.center {
+  text-align: center;
+  margin: 3em 0;
+}
+
+/* line 21, ../sass/partials/design/blocks/_buttons.scss */
+.sidebar-btn {
+  margin: 5em 0 1em 0;
+}
+/* line 22, ../sass/partials/design/blocks/_buttons.scss */
+.sidebar-btn a {
+  display: block;
 }
 
 /* line 1, ../sass/partials/design/blocks/_paginator.scss */
