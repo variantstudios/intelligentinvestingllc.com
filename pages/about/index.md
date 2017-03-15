@@ -1,12 +1,14 @@
 ---
-title: About Intelligent Investing
-permalink: "/about/"
+title: The Intelligent Investing Team
+permalink: /about/
 headshot: /assets/images/headshot.jpg
 search_engine_optimization:
-  page_title: "About Brian Joyce, CPA CFA"
-  page_description: "Brian has been helping people redefine their idea of retirement since 2001.  He believes that retirement is not a specific time in a person’s life; rather, it is a state of mind."
+  page_title: 'About Brian Joyce, CPA CFA'
+  page_description: 'Brian has been helping people redefine their idea of retirement since 2001.  He believes that retirement is not a specific time in a person’s life; rather, it is a state of mind.'
 layout: page-sidebar
 ---
+
+
 # Brian Joyce, CPA CFA
 
 Brian has been helping people redefine their idea of retirement since 2001.  He believes that retirement is not a specific time in a person’s life; rather, it is a state of mind.  It is when you are at your happiest and live stress free.  Brian’s goal for his clients is to have them always living retirement.
