@@ -299,9 +299,8 @@
                     </g>
                 </g>
             </g>
-            <text id="Fee-Only-Advisor" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="30" font-weight="300" fill="#007D6C">
-                <tspan x="81" y="98">Fee Only </tspan>
-                <tspan x="202.71" y="98">Advisor</tspan>
+            <text id="Fee-Only-Advisor" font-family="ProximaNovaCond-Thin, Proxima Nova Condensed" font-size="34" font-style="condensed" font-weight="300" fill="#2DB571">
+                <tspan x="81" y="97">Fee Only Advisor</tspan>
             </text>
         </g>
     </g>
