@@ -637,8 +637,9 @@ a.btn {
   margin: 5em 0 1em 0;
 }
 /* line 22, ../sass/partials/design/blocks/_buttons.scss */
-.sidebar-btn a {
+.sidebar-btn a.btn {
   display: block;
+  padding: 1em 4em;
 }
 
 /* line 1, ../sass/partials/design/blocks/_paginator.scss */
