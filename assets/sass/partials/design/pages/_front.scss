@@ -5,14 +5,14 @@
 
 		h3 {
 			color: #fff;
-			font-size: 2em;
+			font-size: 2.5em;
 			font-weight: 400;
 		}
 
 		a.btn {
 			margin: 1em 0;
 			display: inline-block;
-			//width: 100%;
+			width: 100%;
 		}
 
 		.front-video {
@@ -27,7 +27,7 @@
 			text-align: center;
 			@include breakpoint($bp-medium, $no-query: ".no-mq") {
 				 @include grid-span(4,1);
-				padding-top: 3em;
+				padding-top: 4em;
 			}
 		}
 

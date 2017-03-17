@@ -736,13 +736,14 @@ ul.pager li a:hover {
 /* line 6, ../sass/partials/design/pages/_front.scss */
 .front .title-header h3 {
   color: #fff;
-  font-size: 2em;
+  font-size: 2.5em;
   font-weight: 400;
 }
 /* line 12, ../sass/partials/design/pages/_front.scss */
 .front .title-header a.btn {
   margin: 1em 0;
   display: inline-block;
+  width: 100%;
 }
 /* line 18, ../sass/partials/design/pages/_front.scss */
 .front .title-header .front-video {
@@ -765,7 +766,7 @@ ul.pager li a:hover {
     margin-right: -100%;
     margin-left: 0;
     clear: none;
-    padding-top: 3em;
+    padding-top: 4em;
   }
 }
 /* line 92, ../../vendor/bundle/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss */
@@ -775,7 +776,7 @@ ul.pager li a:hover {
   margin-right: -100%;
   margin-left: 0;
   clear: none;
-  padding-top: 3em;
+  padding-top: 4em;
 }
 /* line 34, ../sass/partials/design/pages/_front.scss */
 .front .title-header .right {
