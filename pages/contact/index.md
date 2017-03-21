@@ -1,7 +1,7 @@
 ---
 title: Contact
 permalink: /contact/
-description: Contact page description.
+description:
 layout: page
 ---
 
