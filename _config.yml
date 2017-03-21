@@ -3,7 +3,7 @@ title: "Intelligent Investing, LLC."
 email: "team@variantstudios.com"
 description: "Tax efficient investing and financial life planning."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://intelligentinvestingllc.com" # the base hostname & protocol for your site
+url: "http://www.intelligentinvestingllc.com" # the base hostname & protocol for your site
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
 version: "3.2.1" # the version of jekyll
 
