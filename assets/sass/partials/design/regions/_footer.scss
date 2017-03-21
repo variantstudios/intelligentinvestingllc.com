@@ -1,3 +1,9 @@
 .footer-wrapper {
-  background: $footer-bg;
+    background: $footer-bg;
+    @include breakpoint($bp-medium-down, $no-query: ".no-mq") {
+        text-align: center;
+        footer.site-footer .left {
+            text-align: center;
+        }
+    }
 }

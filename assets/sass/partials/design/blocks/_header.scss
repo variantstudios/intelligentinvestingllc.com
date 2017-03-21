@@ -31,6 +31,7 @@
     }
 }
 
+
 a.six-steps-btn {
     padding: 1em 2em;
     color: #404040;
@@ -48,4 +49,13 @@ a.six-steps-btn {
         background: #404040;
         transition: all .3s  ease-in;
     }
+
 }
+    .bottom-header-wrapper {
+        .right {
+            @include breakpoint($bp-medium-down, $no-query: ".no-mq") {
+                    margin-top: 1.5em;
+                    text-align: center;
+            }
+        }
+    }
