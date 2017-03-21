@@ -56,6 +56,9 @@ a.six-steps-btn {
             @include breakpoint($bp-medium-down, $no-query: ".no-mq") {
                     margin-top: 1.5em;
                     text-align: center;
+                    a.six-steps-btn {
+                        padding: 1em 1em;
+                    }
             }
         }
     }

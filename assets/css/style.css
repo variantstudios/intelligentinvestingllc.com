@@ -391,11 +391,19 @@ a.six-steps-btn:hover {
     margin-top: 1.5em;
     text-align: center;
   }
+  /* line 59, ../sass/partials/design/blocks/_header.scss */
+  .bottom-header-wrapper .right a.six-steps-btn {
+    padding: 1em 1em;
+  }
 }
 /* line 92, ../../vendor/bundle/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss */
 .no-mq .bottom-header-wrapper .right {
   margin-top: 1.5em;
   text-align: center;
+}
+/* line 59, ../sass/partials/design/blocks/_header.scss */
+.no-mq .bottom-header-wrapper .right a.six-steps-btn {
+  padding: 1em 1em;
 }
 
 /* line 2, ../sass/partials/design/blocks/_logo.scss */
