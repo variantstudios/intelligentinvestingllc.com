@@ -9,4 +9,8 @@ $(document).ready(function() {
   $(".menu-btn").on('click touch', function() {
     $('.menu').toggleClass('show');
   });
+   // Mobile Menu Icon
+  $('#nav-icon').click(function(){
+		$(this).toggleClass('open');
+	});
 });

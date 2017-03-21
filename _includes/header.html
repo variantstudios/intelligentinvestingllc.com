@@ -4,19 +4,25 @@
             <span class="tel editable"><a href="#">970-776-4346</a></span>
         </div>
         <div class="right">
-            <div class="menu-btn">Open Menu</div>
-            <nav class="main-nav">
-              {% include nav.html nav=site.data.menu %}
-            </nav>
+            <div class="menu-btn clearfix">
+                <div id="nav-icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <nav class="main-nav">
+                    {% include nav.html nav=site.data.menu %}
+                </nav>
+            </div>
         </div>
-    </div>
 </header>
 
 <header itemscope class="bottom-header-wrapper clearfix">
     <div class="wrap clearfix">
         <div class="left">
             <div class="site-name logo">
-              <a href="/"><img src="/assets/images/logo.svg" alt="{{site.title}}"></a>
+                <a href="/"><img src="/assets/images/logo.svg" alt="{{site.title}}"></a>
             </div>
         </div>
         <div class="right">
