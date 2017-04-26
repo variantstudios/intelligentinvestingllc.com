@@ -1,7 +1,9 @@
 ---
 title: Services
 permalink: "/services/"
-description: This is just a sample general page.
+search_engine_optimization:
+  page_title: "Services"
+  page_description: ""
 layout: page
 ---
 
