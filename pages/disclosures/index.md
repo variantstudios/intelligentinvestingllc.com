@@ -1,9 +1,9 @@
 ---
 title: Disclosures
-permalink: "/disclosures/"
 search_engine_optimization:
   page_title: "Disclosures"
   page_description: ""
+permalink: "/disclosures/"
 layout: page
 ---
 Intelligent Investing is a Northern Colorado based Registered Investment Advisor (RIA) offering personalized portfolio management for individuals, families, corporations and nonprofit organizations. The following disclosures contain information about our business operations:
