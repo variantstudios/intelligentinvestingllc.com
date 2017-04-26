@@ -1,7 +1,9 @@
 ---
 title: Contact
+search_engine_optimization:
+  page_title: "Contact Intelligent Investing"
+  page_description: ""
 permalink: /contact/
-description:
 layout: page
 ---
 
