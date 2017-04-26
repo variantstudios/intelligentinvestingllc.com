@@ -57,4 +57,4 @@ typekit: "oes5yjr"
 # Google Analytics - What site isn't using it?!
 google_analytics_tracking_id: 'UA-94123612-1'
 
-exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
+exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss","googlefea4ee958300b80b.html"]
