@@ -1,9 +1,9 @@
 ---
 title: Schedule a Meeting
-permalink: /schedule-a-meeting/
 search_engine_optimization:
   page_title: "Schedule a Meeting"
   page_description: ""
+permalink: /schedule-a-meeting/
 layout: page
 ---
 
