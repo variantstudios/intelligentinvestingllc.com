@@ -7,7 +7,7 @@ search_engine_optimization:
 permalink: /about/
 layout: page-sidebar
 _comments:
-  headshot_image: "Make sure the photo is a jpg and the width is 259px and the height is 345px."
+  headshot_image: "Make sure the photo is a jpg and the width is 273px and the height is 364px."
 ---
 
 
