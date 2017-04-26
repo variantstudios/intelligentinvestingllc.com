@@ -6,6 +6,8 @@ search_engine_optimization:
   page_description: 'Brian has been helping people redefine their idea of retirement since 2001.  He believes that retirement is not a specific time in a person’s life; rather, it is a state of mind.'
 permalink: /about/
 layout: page-sidebar
+_comments:
+  headshot_image: "Make sure the photo is a jpg and is width is 259px and the height is 345px."
 ---
 
 
