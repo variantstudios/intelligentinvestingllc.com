@@ -1,9 +1,9 @@
 ---
 title: Privacy Notice
-permalink: "/privacy/"
 search_engine_optimization:
   page_title: "Privacy Notice"
   page_description: ""
+permalink: "/privacy/"
 layout: page
 ---
 Notice of Privacy Practices Intelligent Investing, an investment adviser firm, is committed to safeguarding the confidential information of its clients. We do collect nonpublic personal information in order to open and administer your accounts with us and to provide you with accurate and pertinent advice. We hold all nonpublic personal information you provide to us in the strictest confidence. If we were to change our firm policy, we would be prohibited under the law from doing so without advising you first. You may direct us not to make disclosures (other than disclosures required by law) regarding nonpublic personal information to nonaffiliated third parties. If you wish to opt out of disclosures to non-affiliated third parties please contact us at (970) 776-4346.
