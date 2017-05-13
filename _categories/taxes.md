@@ -1,0 +1,4 @@
+---
+title: Taxes
+layout: category
+---

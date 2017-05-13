@@ -902,6 +902,19 @@ ul.pager li a:hover {
   padding: 2em 0;
 }
 
+/* line 1, ../sass/partials/design/pages/_blog.scss */
+.right-blog h3 {
+  margin-bottom: .2em;
+}
+
+/* line 4, ../sass/partials/design/pages/_blog.scss */
+p.post-date {
+  font-style: italic;
+  color: #bfbfbf;
+  padding: 0;
+  margin: 0 0 1em 0;
+}
+
 /* line 2, ../sass/partials/design/pages/_step.scss */
 .step-detail-node h3 {
   border-left: 4px solid #28b370;

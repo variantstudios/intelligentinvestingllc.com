@@ -23,12 +23,12 @@ pagination:
   permalink: '/:num/'
   title: ':title - page :num'
   limit: 0
-  sort_field: 'title'
+  sort_field: 'date'
   sort_reverse: false
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: true
   # The default document collection to paginate if nothing is specified ('posts' is default)
-  collection: 'steps','posts'
+  # collection: 'steps,posts'
 
 #Collections
 collections:
@@ -38,8 +38,16 @@ collections:
   posts:
     output: true
     permalink: /blog/:title/
+  categories:
+    output: true
+    permalink: '/blog/:title/'
+  tags:
+    output: true
+    permalink: '/blog/:title/'
+
 defaults:
-  - scope:
+  - 
+    scope:
       type: steps
     values:
       layout: step
@@ -52,10 +60,18 @@ defaults:
       search_engine_optimization:
         page_title:
         page_description:
-  - scope:
-      type: "posts"
+  -
+    scope:
+      type: posts
     values:
-      layout: "post"
+      layout: post
+      title:
+      image_path:
+      description:
+      author:
+      category:
+      tags:
+
 # typekit - Because we all need nice type faces.
 typekit: "oes5yjr"
 
