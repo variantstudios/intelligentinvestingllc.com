@@ -28,17 +28,18 @@ pagination:
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: true
   # The default document collection to paginate if nothing is specified ('posts' is default)
-  collection: 'steps'
+  collection: 'steps','post'
 
 #Collections
 collections:
   steps:
     output: true
     permalink: '/steps/:title/'
-
+  posts:
+    output: true
+    permalink: /blog/:title/
 defaults:
-  -
-    scope:
+  - scope:
       type: steps
     values:
       layout: step
@@ -51,7 +52,10 @@ defaults:
       search_engine_optimization:
         page_title:
         page_description:
-
+  - scope:
+      type: "posts"
+    values:
+      layout: "post"
 # typekit - Because we all need nice type faces.
 typekit: "oes5yjr"
 
