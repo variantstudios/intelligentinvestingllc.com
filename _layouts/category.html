@@ -8,6 +8,7 @@ pagination:
 <section class="blog-wrapper">
   {% assign page_id = page.id | remove:'/blog/' %}
   {% for post in paginator.posts %}
+  {{page_id}}
     {% if post.category == page_id %}
       <div class="blog-item clearfix">
       <div class="left-image">
