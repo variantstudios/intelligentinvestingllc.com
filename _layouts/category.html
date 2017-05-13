@@ -3,9 +3,12 @@ layout: page
 ---
 
 
+
+
 <section class="blog-preface">{{ content }}</section>
 <section class="blog-wrapper">
-  {% for post in paginator.posts%}
+ {% assign page_id = page.id | remove:'/blog/' %}
+  {% for post in site.posts %}
     <div class="blog-item clearfix">
       <div class="left-image">
         {% if post.image_path %}
