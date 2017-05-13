@@ -25,6 +25,8 @@
         {% for cat in post.categories %}
           <p class="category-label">Category: <a href="{{ cat | prepend: '/blog/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></p>
         {% endfor %}
+        
+        {% comment %}
         {% if post.tags %}
           <ul class="tags">
             <li>Tags:</li>
@@ -33,6 +35,8 @@
             {% endfor %}
           </ul>
         {% endif %}
+        {% endcomment %}
+        
         {% if post.description %}
           <p>{{ post.description }}</p>
         {% endif %}
