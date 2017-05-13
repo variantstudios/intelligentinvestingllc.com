@@ -4,9 +4,10 @@ layout: page
 
 <section class="blog-preface">{{ content }}</section>
 <section class="blog-wrapper">
- {% assign page_id = page.id | remove:'/blog/' %}
+  {% assign page_id = page.id | remove:'/blog/' %}
   {% for post in site.posts %}
-       <div class="blog-item clearfix">
+    {% if post.category == page_id %}
+      <div class="blog-item clearfix">
         <div class="left-image">
           {% if post.image_path %}
             <a href="{{ post.url }}"><img src="{{ post.image_path }}" alt="{{ post.title }}"></a>
