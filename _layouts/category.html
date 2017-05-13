@@ -5,7 +5,7 @@ layout: page
 <section class="blog-preface">{{ content }}</section>
 <section class="blog-wrapper">
   {% assign page_id = page.id | remove:'/blog/' %}
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     {% if post.category == page_id %}
       <div class="blog-item clearfix">
       <div class="left-image">
