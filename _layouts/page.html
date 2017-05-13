@@ -11,6 +11,8 @@ layout: default
     <div>{{ content }}</div>
     {% if page.url contains "contact" %}
       {% include contact-form.html %}
+      {% elsif page.url contains "blog" %}
+      {% include blog.html %}
       {% elsif page.url contains "steps" %}
       {% include steps.html %}
       {% elsif page.url contains "faq" %}
