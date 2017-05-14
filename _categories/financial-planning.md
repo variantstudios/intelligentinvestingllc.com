@@ -1,5 +1,5 @@
 ---
-title: General Financial Planning
+title: Financial Planning
 layout: category
 pagination: 
   enabled: true

@@ -1,6 +1,17 @@
 ---
-layout: page
+layout: default
 ---
+
+<div class="title-header">
+      <section class="wrap">
+          <h1 class="pagetitle">{{ page.title }}</h1>
+      </section>
+</div>
+<main>
+  <section class="wrap">
+
+
+
 
 <section class="blog-preface">{{ content }}</section>
 <section class="blog-wrapper">
@@ -13,10 +24,11 @@ layout: page
       </div>
       <div class="right-blog">
         <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-        <p>posted {{ post.date | date: "%a, %b %d, %Y" }}{% if post.person %} by {% assign page_person_id = post.person | prepend: "/people/" %}{% for person in site.people %}{% if person.id == page_person_id %}{{ person.name }}{% if person.image_path %} <img src="{{ person.image_path }}" alt="{{ person.name }}" class="person">{% endif %}{% break %}{% endif %}{% endfor %}{% endif %}</p>
+        <p class="post-date">posted on {{ post.date | date: "%a, %b %d, %Y" }}{% if post.person %} by {% assign page_person_id = post.person | prepend: "/people/" %}{% for person in site.people %}{% if person.id == page_person_id %}{{ person.name }}{% if person.image_path %} <img src="{{ person.image_path }}" alt="{{ person.name }}" class="person">{% endif %}{% break %}{% endif %}{% endfor %}{% endif %}</p>
         {% for cat in post.categories %}
           <p class="category-label">Category: <a href="{{ cat | prepend: '/blog/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></p>
         {% endfor %}
+        {% comment %}
         {% if post.tags %}
           <ul class="tags">
             <li>Tags:</li>
@@ -25,6 +37,7 @@ layout: page
             {% endfor %}
           </ul>
         {% endif %}
+        {% endcomment %}
         {% if post.description %}
           <p>{{ post.description }}</p>
         {% endif %}
@@ -56,3 +69,6 @@ layout: page
     </div>
   {% endif %}
 </section>
+
+  </section>
+</main>

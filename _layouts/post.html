@@ -9,7 +9,10 @@ layout: default
 
 <section class="wrap">
     <main class="step-detail-node">
+        <div class="clearfix">
         <p class="back-to-blog"><a href="/blog/">< Back to the blog</a></p>
+        <p class="date-blog">posted on {{ page.date | date: "%a, %b %d, %Y" }}</p>
+        </div>
         <div class="content-blog">
             {{ content }}
         </div>

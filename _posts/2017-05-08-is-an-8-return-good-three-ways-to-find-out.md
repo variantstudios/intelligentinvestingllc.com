@@ -9,8 +9,6 @@ search_engine_optimization:
   page_title: 'Is an 8% return good? Three Ways to Find Out'
   page_description: 'Is scoring 120 points in a basketball game good?  Not if the other teams scores 150.  Is getting a 75% on a math test good?  Yes, if every other student in the class scored under 75% and it is graded on a curve...'
 ---
-
-
 Is scoring 120 points in a basketball game good?  Not if the other teams scores 150.  Is getting a 75% on a math test good?  Yes, if every other student in the class scored under 75% and it is graded on a curve.  Is Elisabeth Moss the best actor we’ve seen in the past 25 years?  Yes, period, end of discussion.
 
 I think you can understand my point.  Is 8% a good rate of return on your investments?  Yes, no, maybe.  It depends on the context.  What I want to outline in this blog are the three key points of context you should examine when evaluating your portfolio’s investment performance.
