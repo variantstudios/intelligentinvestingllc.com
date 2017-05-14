@@ -3,14 +3,12 @@ title: 'Ask How, Not What Your Advisor Gets Paid'
 date: 2017-05-11 00:00:00
 image_path: /assets/images/blog/background-2009305_1920.jpg
 short_description: The last time you were in a doctor’s office did you ask or wonder how much they get paid?  You were probably just thinking about how they can make you feel better.  When it comes to important things in our lives the cost is secondary...
-category: general-financial-planning
+category: industry-tips
 tags:
 search_engine_optimization:
   page_title: 'Ask How, Not What Your Advisor Gets Paid'
   page_description: The last time you were in a doctor’s office did you ask or wonder how much they get paid?  You were probably just thinking about how they can make you feel better.  When it comes to important things in our lives the cost is secondary...
 ---
-
-
 The last time you were in a doctor’s office did you ask or wonder how much they get paid?  You were probably just thinking about how they can make you feel better.  When it comes to important things in our lives the cost is secondary.  In the case with the doctor, we are more concerned with getting better. Or working with your financial advisory, you want to make sure you don’t run out of money.
 
 I believe you should know exactly what you pay your advisor.  I send all my client’s a very easy to read invoice and all their performance reports include a line for management fees.  Knowing what you pay your advisor helps build trust.  In fact, I have written in some detail more about the trust topic HERE.  It is far more important to know how they are getting paid.

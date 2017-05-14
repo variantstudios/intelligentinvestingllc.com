@@ -24,7 +24,7 @@ pagination:
   title: ':title - page :num'
   limit: 0
   sort_field: 'date'
-  sort_reverse: false
+  sort_reverse: true
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: true
   # The default document collection to paginate if nothing is specified ('posts' is default)

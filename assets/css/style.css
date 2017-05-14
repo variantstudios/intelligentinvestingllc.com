@@ -915,6 +915,19 @@ p.post-date {
   margin: 0 0 1em 0;
 }
 
+/* line 10, ../sass/partials/design/pages/_blog.scss */
+p.date-blog {
+  display: inline-block;
+  float: right;
+  color: #bfbfbf;
+  font-style: italic;
+}
+
+/* line 16, ../sass/partials/design/pages/_blog.scss */
+p.back-to-blog {
+  display: inline-block;
+}
+
 /* line 2, ../sass/partials/design/pages/_step.scss */
 .step-detail-node h3 {
   border-left: 4px solid #28b370;

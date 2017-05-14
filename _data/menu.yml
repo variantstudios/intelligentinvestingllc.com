@@ -2,6 +2,8 @@
   url: /
 - text: About
   url: /about/
+- text: Blog
+  url: /blog/
 - text: FAQ
   url: /faq/
 - text: Contact
