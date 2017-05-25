@@ -1,5 +1,5 @@
 ---
-title: 'Is an 8% return good? Three Ways to Find Out.'
+title: 'Is an 8% Return Good? Three Ways to Find Out.'
 date: 2017-05-08 10:00:00
 image_path: /assets/images/blog/doors-1767564_1920.jpg
 short_description: 'Is scoring 120 points in a basketball game good?  Not if the other teams scores 150.  Is getting a 75% on a math test good?  Yes, if every other student in the class scored under 75% and it is graded on a curve...'
