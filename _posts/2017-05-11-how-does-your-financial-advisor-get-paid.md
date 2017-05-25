@@ -1,5 +1,5 @@
 ---
-title: 'Ask How, Not What Your Advisor Gets Paid'
+title: How Does Your Financial Advisor Get Paid?
 date: 2017-05-11 00:00:00
 image_path: /assets/images/blog/background-2009305_1920.jpg
 short_description: The last time you were in a doctor’s office did you ask or wonder how much they get paid?  You were probably just thinking about how they can make you feel better.  When it comes to important things in our lives the cost is secondary...
@@ -11,9 +11,9 @@ search_engine_optimization:
 ---
 
 
-The last time you were in a doctor’s office did you ask or wonder how much they get paid? &nbsp;When it comes to important things in our lives the cost is secondary. In the case with the doctor, we are more concerned with getting better. In working with your financial advisor, you want to make sure you don’t run out of money.
+The last time you were in a doctor’s office did you ask or wonder how much they get paid?  When it comes to important things in our lives the cost is secondary. In the case with the doctor, we are more concerned with getting better. In working with your financial advisor, you want to make sure you don’t run out of money.
 
-I believe you should know exactly what you pay your advisor. &nbsp;I send all my clients a very easy to read invoice and all their performance reports include a line for management fees. &nbsp;Knowing what you pay your advisor helps build trust. &nbsp;In fact, I have written in some detail more about the trust topic [HERE](/blog/four-ways-to-measure-the-trust-with-your-financial-advisor/). &nbsp;With that, I believe it is far more important to know how they are getting paid.
+I believe you should know exactly what you pay your advisor.  I send all my clients a very easy to read invoice and all their performance reports include a line for management fees.  Knowing what you pay your advisor helps build trust.  In fact, I have written in some detail more about the trust topic [HERE](/blog/four-ways-to-measure-the-trust-with-your-financial-advisor/).  With that, I believe it is far more important to know how they are getting paid.
 
 Let’s go back to the hypothetical doctor visit. Assume you have a heart condition that needs medication for treatment. All other things being equal, what doctor would you rather see? One that is compensated from the drug companies or one that is paid directly by you and your health care provider? While that is just a hypothetical in healthcare, that is exactly the choice you have with financial advisors. Most are compensated in one of two ways:
 
