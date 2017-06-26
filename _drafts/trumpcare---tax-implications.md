@@ -17,8 +17,10 @@ The BCRA proposes a vast amount of tax cuts from the Affordable Care Act (ACA) o
 
 There are two tax cuts that will affect the tax planning and investment strategies of my clients the most:
 
-1) Capital Gains Tax - Under the current ACA you are assessed an extra 3.8% surtax on capital gains, dividends, and interest income for families earning $250,000 or more (individuals $200,000 or more). &nbsp;This surtax was put in place to help fund medicaid. &nbsp;Under the new BCRA this tax will go away.
+1) Capital Gains Tax - Under the current ACA you are assessed an extra 3.8% surtax on capital gains, dividends, and interest income for families earning $250,000 or more (individuals $200,000 or more). &nbsp;This surtax was put in place to help fund medicare. &nbsp;Under the new BCRA this tax will go away.
 
 2) Medicare Wage Surtax - Under the current ACA you are assessed a 0.9% surcharge for all wages or self-employed income greater than $200,000 for individuals and $250,000 for married couples. &nbsp;This surcharge was put in place to help fund medicare. &nbsp;Just like the capital gains tax above, this will also go away under the current BCRA proposal in front of the senate.
 
 In short, if you earn more than $200,000 as an individual or $250,000 as a family it would be a good time to talk to your CPA and/or financial advisor to discuss any changes in strategy.
+
+Please feel free to [contact](/contact/)&nbsp;me anytime to discuss this topic or any other in more detail.
