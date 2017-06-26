@@ -1,6 +1,6 @@
 ---
 title: Trumpcare - 2 Yuge Tax Implications
-date: 2017-06-26 11:50:00
+date: 2017-06-25 11:50:00
 image_path: /assets/images/trump.png
 short_description: "As always, this is not an opinion piece. \_For my full stance on the Better Care Act (BCRA) you'll have to wait for my exclusive Rachel Maddow interview airing soon. \_This is about the tax implications if the current Act is passed through the senate."
 category: tax
