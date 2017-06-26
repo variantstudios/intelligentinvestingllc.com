@@ -60,6 +60,7 @@ defaults:
       search_engine_optimization:
         page_title:
         page_description:
+      class: step
   -
     scope:
       type: posts
@@ -71,6 +72,7 @@ defaults:
       author:
       category:
       tags:
+      class: post
 
 # typekit - Because we all need nice type faces.
 typekit: "oes5yjr"
