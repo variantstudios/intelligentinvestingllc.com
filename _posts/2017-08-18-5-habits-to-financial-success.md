@@ -1,7 +1,8 @@
 ---
 title: 5 Habits to Financial Success
 date: 2017-08-18 11:50:00
-image_path: /assets/bad-habits-700x467.jpg
+image_path: >-
+  /assets/aaeaaqaaaaaaaapyaaaajdvknwzlmtawlwm5nmytndzinc1hyjzklwi0ogi1mzjjzmfjyq.jpg
 short_description: >-
   During my career, I have had the opportunity to work with people from all
   aspects of life.  What I learned very quickly is that financial success is
