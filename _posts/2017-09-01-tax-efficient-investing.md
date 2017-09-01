@@ -1,7 +1,7 @@
 ---
 title: Tax Efficient Investing
 date: 2017-09-01 11:50:00
-image_path: /assets/8266555568-218538bcb4-z-59642e953df78cdc68c06a61.jpg
+image_path: /assets/8266555568-218538bcb4-z-59642e953df78cdc68c06a61-1.jpg
 short_description: >-
   One of the most overlooked elements in creating an investment portfolio is the
   tax efficiency.  If it is set up incorrectly it can cost you significant
