@@ -2,11 +2,7 @@
 title: Trump's Yuge Tax Plan - 5 Takeaways
 date: 2017-10-06 11:50:00
 image_path: /assets/iStock_000022723190_Large-1038x576.jpg
-short_description: >-
-  One of the most frequent questions I get is some variation of “The federal
-  reserve is making an announcement, so what does that mean for my portfolio?” 
-  It just so happens the federal reserve made an announcement today, so let’s
-  try to break it down.
+short_description: "A couple weeks ago President Trump gave a speech where he outlined his new tax plan.\_ The key points are detailed below.\_ I apologize ahead of time for any over the top tax jargon, but I promise to do my best to keep it simple!"
 category: tax
 tags:
 search_engine_optimization:
