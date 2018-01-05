@@ -13,23 +13,19 @@ search_engine_optimization:
 ---
 
 
-The newly passed Tax Cuts and Jobs Act is not only for Corporate and Personal taxes.  It also contains language that expands the use of 529 plans.  As a reminder, 529 plans are accounts you set up with a named beneficiary.  All earnings in the account will be tax free provided the withdrawals are used for the named beneficiary towards qualified higher education expenses.  Before the changes in the new Tax Cuts and Jobs Act, those qualified education expenses could only be used towards post-secondary schools (colleges).  This will now extend to K-12 expenses as well for up to $10,000 per year.
-{: .MsoNoSpacing}
-
+The newly passed Tax Cuts and Jobs Act is not only for Corporate and Personal taxes.&nbsp; It also contains language that expands the use of 529 plans.&nbsp; As a reminder, 529 plans are accounts you set up with a named beneficiary.&nbsp; All earnings in the account will be tax free provided the withdrawals are used for the named beneficiary towards qualified higher education expenses.&nbsp; Before the changes in the new Tax Cuts and Jobs Act, those qualified education expenses could only be used towards post-secondary schools (colleges).&nbsp; This will now extend to K-12 expenses as well for up to $10,000 per year.
 {: .MsoNoSpacing}
 
 As a refresher, here are some of the other features of 529 accounts that have always been in place:
 {: .MsoNoSpacing}
 
-{: .MsoNoSpacing}
+* While there is no federal tax deduction for 529 plan contributions, over 30 states offer a deduction or credit for annual contributions.&nbsp; Most states require you to contribute to your home state’s plan to receive the benefit.
 
-* While there is no federal tax deduction for 529 plan contributions, over 30 states offer a deduction or credit for annual contributions.  Most states require you to contribute to your home state’s plan to receive the benefit.{: .MsoNoSpacing}
+* Most states have different investment options.&nbsp; Consult your investment advisor before deciding on how to invest your funds.
 
-* Most states have different investment options.  Consult your investment advisor before deciding on how to invest your funds.{: .MsoNoSpacing}
+* You can change the named beneficiary of the plan, provided the new beneficiary is a member of your family.
 
-* You can change the named beneficiary of the plan, provided the new beneficiary is a member of your family.{: .MsoNoSpacing}
+* If you withdraw funds for any non-qualified expenses, you will pay ordinary income tax on all the earnings plus a 10% tax penalty.
 
-* If you withdraw funds for any non-qualified expenses, you will pay ordinary income tax on all the earnings plus a 10% tax penalty.{: .MsoNoSpacing}
-
-Please feel free to [contact](http://www.intelligentinvestingllc.com/contact/) me anytime to discuss this topic or any other in more detail.
+Please feel free to&nbsp;[contact](http://www.intelligentinvestingllc.com/contact/)&nbsp;me anytime to discuss this topic or any other in more detail.
 {: .MsoNoSpacing}
