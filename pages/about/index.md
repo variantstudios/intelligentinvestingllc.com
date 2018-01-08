@@ -1,5 +1,7 @@
 ---
-title: 'Your Trusted CERTIFIED FINANCIAL PLANNER®, Brian Joyce, CPA/CFP®'
+title: |-
+  Your Trusted CERTIFIED FINANCIAL PLANNER®
+  Brian Joyce, CPA/CFP®
 headshot_image: /assets/images/headshot.jpg
 search_engine_optimization:
   page_title: 'Certified Financial Planner | Loveland, CO | Brian Joyce CPA/CFP ®'
