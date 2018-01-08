@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Solutions From a Fiduciary and CFP®
 search_engine_optimization:
   page_title: 'Fee Based Financial Advisor, Fiduciary | Loveland, CO'
   page_description: >-
