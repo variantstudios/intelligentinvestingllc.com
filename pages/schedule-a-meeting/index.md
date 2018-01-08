@@ -1,7 +1,7 @@
 ---
-title: Schedule a Meeting
+title: Schedule a Meeting with a CPA/CFP®
 search_engine_optimization:
-  page_title: 'Accountant, CPA, CFP | Loveland, CO | Intelligent Investing'
+  page_title: 'Accountant, CPA, CFP | Fort Collins, CO | Intelligent Investing'
   page_description: >-
     Intelligent Investing, LLC can help you with all of your investment needs.
     Schedule a meeting with our experienced CPA/CFP® and start a financial life
