@@ -1,10 +1,11 @@
 ---
-title: Contact
+title: Contact Us For Your Investing Needs
 search_engine_optimization:
-  page_title: 'Retirement Planning, Investing | Loveland, CO | Brian Joyce CPA/CFP ®'
+  page_title: 'Retirement Planning, Investing | Fort Collins, CO | Brian Joyce CPA/CFP ®'
   page_description: >-
     Intelligent Investing, LLC provides investing and retirement planning
-    services to the Loveland, CO area. Secure your future by calling us today!
+    services to the Fort Collins, CO area. Secure your future by calling us
+    today!
 permalink: /contact/
 layout: page
 ---
