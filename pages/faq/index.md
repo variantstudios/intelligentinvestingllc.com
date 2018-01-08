@@ -1,9 +1,9 @@
 ---
 title: Solutions From a Fiduciary and CFP®
 search_engine_optimization:
-  page_title: 'Fee Based Financial Advisor, Fiduciary | Loveland, CO'
+  page_title: 'Fee Based Financial Advisor, Fiduciary | Fort Collins, CO'
   page_description: >-
-    Intelligent Investing, LLC offers fiduciary services in the Loveland, CO
+    Intelligent Investing, LLC offers fiduciary services in the Fort Collins, CO
     area. Call today to speak with a fee based financial advisor.
 permalink: /faq/
 layout: page
