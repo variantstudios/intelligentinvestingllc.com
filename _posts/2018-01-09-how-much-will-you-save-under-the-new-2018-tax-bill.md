@@ -2,9 +2,7 @@
 title: How Much Will You Save Under the New 2018 Tax Bill?
 date: 2018-01-09 11:50:00
 image_path: /assets/taxes.jpg
-short_description: >-
-  The newly passed Tax Cuts and Jobs Act is not only for Corporate and Personal
-  taxes.  It also contains language that expands the use of 529 plans.
+short_description: "I have developed a quick questionnaire to help determine how much you may save under the new 2018 Tax Cuts and Jobs Act.\_ You will need your most recent Form 1040 Income Tax return to fill it out.\_ Don't worry, I will not ask for any sensitive information."
 category: investing
 tags:
 search_engine_optimization:
