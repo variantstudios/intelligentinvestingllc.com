@@ -13,8 +13,8 @@ search_engine_optimization:
 ---
 
 
-I have developed a quick questionnaire to help determine how much you may save under the new 2018 Tax Cuts and Jobs Act.&nbsp; You will need your most recent Form 1040 Income Tax return to fill it out.&nbsp; Don't worry, I will not ask for any sensitive information.
+I have developed a quick questionnaire to help determine how much you may save under the new 2018 Tax Cuts and Jobs Act.  You will need your most recent Form 1040 Income Tax return to fill it out.  Don't worry, I will not ask for any sensitive information.
 
-[If you have 5-10 minutes you can fill it out **HERE.**]( https://brian605.typeform.com/to/S03Eer)
+[If you have 5-10 minutes you can fill it out **HERE.**](https://brian605.typeform.com/to/S03Eer)
 
-After you fill out the survey I will email you ASAP with the calculation.&nbsp;&nbsp;
+After you fill out the survey I will email you ASAP with the calculation.
