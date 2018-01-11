@@ -11,10 +11,10 @@ search_engine_optimization:
 ---
 
 
-I have developed a quick questionnaire to help determine how much you may save under the new 2018 Tax Cuts and Jobs Act.&nbsp; You will need your most recent Form 1040 Income Tax return to fill it out.&nbsp; Don't worry, I will not ask for any sensitive information.
+The average family of 4, making $125,000 could save $1,000 - $4,000 per year with the new tax bill.
 
-[If you have 5-10 minutes you can fill it out **HERE.**](https://brian605.typeform.com/to/S03Eer)
+[**CALCULATE YOUR TAX SAVINGS HERE**]( https://brian605.typeform.com/to/S03Eer)<br>
 
-After you fill out the survey I will email you ASAP with the calculation.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3D7f66l5AFY?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3D7f66l5AFY?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[**CALCULATE YOUR TAX SAVINGS HERE**]( https://brian605.typeform.com/to/S03Eer)
