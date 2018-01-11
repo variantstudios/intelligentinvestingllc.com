@@ -11,7 +11,7 @@ search_engine_optimization:
 ---
 
 
-The average family of 4, making $125,000 could save $1,000 - $4,000 per year with the new tax bill.
+The average family of 4, making $100,000/year could save $1,000 - $4,000 annually with the new tax bill.
 
 [**CALCULATE YOUR TAX SAVINGS HERE**]( https://brian605.typeform.com/to/S03Eer)<br>
 
