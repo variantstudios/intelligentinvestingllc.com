@@ -15,7 +15,7 @@ The average family of 4, making $100,000/year could save $1,000 - $4,000 annuall
 
 ## [CLICK HERE TO CALCULATE YOUR TAX SAVINGS]( https://brian605.typeform.com/to/S03Eer)
 
-or watch the following video explaining the new tax law in more detail.
+or watch the following video explaining the new tax law in more detail:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3D7f66l5AFY?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
