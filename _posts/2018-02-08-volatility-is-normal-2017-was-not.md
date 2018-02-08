@@ -27,7 +27,7 @@ It is February 8, 2018 and there have been 27 days the stock market has been ope
 ***Is this normal?***
 {: .MsoNoSpacing}
 
-The short answer is yes.&nbsp; But you don’t have to take my word for it.&nbsp; I’ve done some research!&nbsp; There are a lot of ways to talk about volatility, but at the end of the day most people are considered with how often their portfolio goes down.&nbsp; And more importantly, how often does it go down a lot.&nbsp; I went back and tracked every day of the S&P 500 from 2000 – 2016.&nbsp; That is 4,267 days the market was open.&nbsp; Out of those 4,267 days, the S&P 500 dropped 1% or more 619 times (14.51% of the time) and it dropped 2% or more 195 times (4.57% of the time).&nbsp; To simplify, in an average month the S&P 500 will drop 1% or more 3 times and it will drop 2% or more once.&nbsp; It is normal for the stock market to go down.
+The short answer is yes.&nbsp; But you don’t have to take my word for it.&nbsp; I’ve done some research!&nbsp; There are a lot of ways to talk about volatility, but at the end of the day most people are concerned with how often their portfolio goes down.&nbsp; And more importantly, how often does it significantly goes down.&nbsp; I went back and tracked every day of the S&P 500 from 2000 – 2016.&nbsp; That is 4,267 days the market was open.&nbsp; Out of those 4,267 days, the S&P 500 dropped 1% or more 619 times (14.51% of the time) and it dropped 2% or more 195 times (4.57% of the time).&nbsp; To simplify, in an average month the S&P 500 dropped 1% or more 3 times and 2% or more once.&nbsp; It is normal for the stock market to go down significantly.
 {: .MsoNoSpacing}
 
 So far in 2018 (including today’s drop of 3.75%), the S&P 500 has dropped 1% or more 4 times (14.81% of the time) and it has dropped 2% or more 3 times (11.11% of the time).&nbsp; The 1% drops are right on the average from 2000 – 2016. The 2% drops are about double the average, but it is also a very small sample size.
@@ -36,7 +36,7 @@ So far in 2018 (including today’s drop of 3.75%), the S&P 500 has dropped 1% o
 The longer answer is yes, 2018 is very normal.&nbsp; 2017 was not normal at all and it is fresh on everyone’s mind.
 {: .MsoNoSpacing}
 
-In 2017, the S&P 500 dropped 1% or more 4 times (1.59% of the time) and it never dropped below 2%.&nbsp; It is by far the year with the least amount of 1% drops since 2000.&nbsp; The next closest is 2006, when the market dropped 1% or more 5.18% of the time.&nbsp; 2017 was far from a normal year and we may not see another one like it for a very long time.
+In 2017, the S&P 500 dropped 1% or more only 4 times (1.59% of the time) and it never dropped below 2%.&nbsp; It is by far the year with the least amount of 1% drops since 2000.&nbsp; The next closest is 2006, when the market dropped 1% or more 5.18% of the time.&nbsp; 2017 was far from a normal year and we may not see another one like it for a very long time.
 {: .MsoNoSpacing}
 
 ***What do I do?***
