@@ -1,5 +1,5 @@
 ---
-title: 'Your Trusted CERTIFIED FINANCIAL PLANNER®, Brian Joyce, CPA/CFP®'
+title: 'Your Trusted CERTIFIED FINANCIAL PLANNER &#174;, Brian Joyce, CPA/CFP &#174;'
 headshot_image: /assets/images/headshot.jpg
 headshot_image_alt_text: 'Brian Joyce CPA/CFP &#174;, Your Trusted CERTIFIED FINANCIAL PLANNER &#174;'
 search_engine_optimization:
