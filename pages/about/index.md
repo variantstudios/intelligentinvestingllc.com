@@ -1,6 +1,7 @@
 ---
 title: 'Your Trusted CERTIFIED FINANCIAL PLANNER®, Brian Joyce, CPA/CFP®'
 headshot_image: /assets/images/headshot.jpg
+headshot_image_alt_text: 'Brian Joyce CPA/CFP®, Your Trusted CERTIFIED FINANCIAL PLANNER®'
 search_engine_optimization:
   page_title: 'Certified Financial Planner | Fort Collins, CO | Brian Joyce CPA/CFP ®'
   page_description: >-
