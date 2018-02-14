@@ -1,9 +1,9 @@
 ---
 title: 'Your Trusted CERTIFIED FINANCIAL PLANNER®, Brian Joyce, CPA/CFP®'
 headshot_image: /assets/images/headshot.jpg
-headshot_image_alt_text: 'Brian Joyce CPA/CFP®, Your Trusted CERTIFIED FINANCIAL PLANNER®'
+headshot_image_alt_text: 'Brian Joyce CPA/CFP®, Your Trusted CERTIFIED FINANCIAL PLANNER &#174;'
 search_engine_optimization:
-  page_title: 'Certified Financial Planner | Fort Collins, CO | Brian Joyce CPA/CFP ®'
+  page_title: 'Certified Financial Planner | Fort Collins, CO | Brian Joyce CPA/CFP &#174;'
   page_description: >-
     Intelligent Investing, LLC of Fort Collins, CO provides financial services
     from a Certified Financial Planner. Schedule a meeting today and start
