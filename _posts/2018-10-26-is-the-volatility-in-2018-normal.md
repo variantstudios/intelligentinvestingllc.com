@@ -1,5 +1,5 @@
 ---
-title: Is the Volatility 2018 Normal?
+title: Is the Volatility in 2018 Normal?
 date: 2018-10-26 11:50:00
 image_path: /assets/when-does-volatility-equal-risk.png
 short_description: "It is October 26, 2018 and there have been 208 days the stock market has been open in 2018.\_ The\_past few weeks feel\_like whirlwind.\_ I have been fielding a lot of questions and one of the more popular ones is, “Is this normal?”\_ That is usually followed up with, “What do I do?”.\_ I’ll do my best to help answer both questions."
