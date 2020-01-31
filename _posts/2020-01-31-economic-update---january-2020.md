@@ -26,7 +26,7 @@ Analyzing the economy is far from an exact science and with of all the data now 
 
 An inverted yield curve is when the 2 year U.S. treasury rate falls below the 10 year U.S. treasury rate for a 30 day period. The last 9 times this happened (since 1955), the U.S. economy entered a recession within the next 16 months (on average).
 
-As of January 31, 2020 the 10 year Treasury rate is 1.508% and the 2 year Treasury rate is 1.327%.&nbsp; That is a positive difference of 0.181%.&nbsp; We had a slight inversion of the yield curve from August 26, 2019 - August 30, 2019.&nbsp; Since then it has reverted back to a normal yield curve and the spread has been slowing separating.&nbsp; As a stand alone statistic, it is hard to tell if this quick inversion was a false positive or a signal for a future recession.
+As of January 31, 2020 the 10 year Treasury rate is 1.508% and the 2 year Treasury rate is 1.327%.&nbsp; That is a positive difference of 0.181%.&nbsp; We had a slight inversion of the yield curve from August 26, 2019 - August 30, 2019.&nbsp; Since then it has reverted back to a normal yield curve and the spread has been slowly separating.&nbsp; As a stand alone statistic, it is hard to tell if this quick inversion was a false positive or a signal for a future recession.
 
 **2) FRED Smoothed Recession Probability**&nbsp;
 
@@ -40,7 +40,7 @@ By plotting 19 key economic indicators, the BaR Analysis Grid&copy; clarifies cu
 
 ![](/assets/2020-1-31.png){: width="650" height="531"}
 
-There is a lot of data illustrated on the chart.&nbsp; As of January 31, 2020 the MoC is still not in the zone which would signify the start of a recession.&nbsp; That being said, a lot of the data points are moving a lot closer to the horizontal baseline and it is worth closely monitoring.
+There is a lot of data illustrated on the chart.&nbsp; As of January 31, 2020 the MoC is still not in the zone which would signify the start of a recession.&nbsp; That being said, a lot of the data points are moving closer to the horizontal baseline and it is worth monitoring.
 
 As a reference point, here is the same chart from 12 months ago.&nbsp; You will see that a lot of the data points have pushed significantly closer to the horizontal baseline over that period.
 
@@ -50,6 +50,6 @@ As a reference point, here is the same chart from 12 months ago.&nbsp; You will 
 
 There are 4 major stages to an economic cycle:<br>*1) Early Recession* - Consumer expectations are at their worst, industrial production is falling, interest rates are at their highest and the yield curve is flat or even inverted.<br>*2) Full Recession* - GDP has been retracting quarter over quarter, interest rates are falling, consumer expectations have bottomed and the yield curve is normal.<br>*3) Early Recovery* - Consumer expectations are rising, industrial production is growing, interest rates have bottomed and the yield curve is beginning to get steeper.<br>*4) Late Recovery* - Interest rates can be rising rapidly, with a flattening yield curve. Consumer expectations are beginning to decline and industrial production is flat.
 
-Based on the data from this report, as of January 31, 2020 it appears that we are still in the late recovery phase.&nbsp; The best guess would be that we could approach the next phase (early recession) in the next 12 months.&nbsp;
+Based on the data from this report, as of January 31, 2020 it appears that we are still in the late recovery phase.&nbsp; The best guess would be that we could approach the next phase (early recession) in approximately 12 months.&nbsp;
 
 Please feel free to [contact](/contact/) me anytime to discuss in more detail.
