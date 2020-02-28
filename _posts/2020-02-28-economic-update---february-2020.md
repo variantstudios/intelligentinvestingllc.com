@@ -28,7 +28,7 @@ Analyzing the economy is far from an exact science and with of all the data now 
 
 An inverted yield curve is when the 2 year U.S. treasury rate falls below the 10 year U.S. treasury rate for a 30 day period. The last 9 times this happened (since 1955), the U.S. economy entered a recession within the next 16 months (on average).
 
-As of January 31, 2020 the 10 year Treasury rate is 1.168% and the 2 year Treasury rate is 0.931%.&nbsp; That is a positive difference of 0.237%.&nbsp; We had a slight inversion of the yield curve from August 26, 2019 - August 30, 2019.&nbsp; Since then it has reverted back to a normal yield curve and the spread has been slowly separating.&nbsp; As a stand alone statistic, it is hard to tell if this quick inversion was a false positive or a signal for a future recession.
+As of February 28, 2020 the 10 year Treasury rate is 1.168% and the 2 year Treasury rate is 0.931%.&nbsp; That is a positive difference of 0.237%.&nbsp; We had a slight inversion of the yield curve from August 26, 2019 - August 30, 2019.&nbsp; Since then it has reverted back to a normal yield curve and the spread has been slowly separating.&nbsp; As a stand alone statistic, it is hard to tell if this quick inversion was a false positive or a signal for a future recession.
 
 **2) FRED Smoothed Recession Probability**&nbsp;
 
