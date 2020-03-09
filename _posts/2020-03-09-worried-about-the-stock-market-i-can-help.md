@@ -2,7 +2,9 @@
 title: Worried About the Stock Market?  I can Help!
 date: 2020-03-09 11:50:00
 image_path: /assets/risk.gif
-short_description: It's time to reexamine your risk tolerance to investing.
+short_description: >-
+  With the stock market to volatile, there has never been a better time to
+  reexamine your risk tolerance to investing.
 category: investing
 tags:
 search_engine_optimization:
@@ -17,7 +19,7 @@ It's not exactly the same in investing but I was short on classic movie parallel
 1. **Financial Planning**&nbsp;(**finding the golden chest**) – We start by creating a financial plan so you can live out all your life's goals without running out of money.&nbsp; Then we tie investment strategies to this well thought out plan. We want to ensure you are getting the desired rate of return (to reach all your fabulous life goals) while taking the least amount of risk possible.&nbsp; This is where the snakes come into play.&nbsp; The best case scenario is we have been working together a long time and by the time you need some of that hard earned money all the snakes are gone.&nbsp; But what if, for some unknown reason, you are not one of my clients (I know it's hard to imagine) and that pit is swarming with 8 foot long reptiles?
 2. **Sleepability (the snakes)**&nbsp;– I know it's not actually a word, but it has a good ring to it\!&nbsp; How much risk can you tolerate to reach all your life's goals?&nbsp; Better yet, can you sleep well at night not knowing what the stock market may bring tomorrow?&nbsp; To stick with the Indiana Jones (I really hope you have seen it\!) theme, we may need to make some adjustments.&nbsp; Should you take the long way around to get your golden chest?&nbsp; Or in financial planning terms should you save more money or work longer?&nbsp; Maybe we are okay skipping the golden chest for now and admire all the other cool things we've collected in our life, knowing we won't get bitten by a giant cobra.&nbsp; It is usually somewhere in between and as promised this is where I can help\!
 
-**STEP 1:&nbsp;**For those of you who are not my client yet, we should get one of those financial plans done.&nbsp; If you would like, [**CONTACT ME**](/contact/)&nbsp;anytime.&nbsp; We can get you on your way to that golden chest.
+**STEP 1:&nbsp;**For those of you who are not my client yet, we should get one of those financial plans done.&nbsp; If you would like, [**CONTACT ME**](/schedule-a-meeting/)&nbsp;anytime.&nbsp; We can get you on your way to that golden chest.
 
 **STEP 2:&nbsp;**Whether you are my client or not, it is always good to reassess your sleepability when the stock market is volatile.&nbsp; You will get the most truthful answer to how much you can tolerate snakes.&nbsp; Lucky for you, I have developed my own and you can fill it out right [**HERE**](https://brian605.typeform.com/to/h3m3wP){: target="_blank"}.
 
