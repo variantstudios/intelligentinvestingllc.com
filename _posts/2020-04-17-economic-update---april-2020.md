@@ -28,7 +28,7 @@ By plotting 19 key economic indicators, the BaR Analysis Grid&copy; clarifies cu
 
 ![](/assets/2020-4-16.png){: width="650" height="533"}
 
-There is a lot of data illustrated on the chart.&nbsp; As April 16, 2020 MoC, we right where the start of a recession would be.&nbsp; You will also notice that a lot of the data points are literally off the chart.&nbsp; That is due to the large uncertainty of how long this economic shutdown will last and what lasting damage it will cause.&nbsp;
+There is a lot of data illustrated on the chart.&nbsp; As April 16, 2020, the MoC (average of all the data points) is right where the start of a recession would be.&nbsp; You will also notice that a lot of the data points are literally off the chart.&nbsp; That is due to the large uncertainty of how long this economic shutdown will last and what lasting damage it will cause.&nbsp;
 
 Now that we know we are in a recession, our focus will be on when we are through the recession and start to enter the early recovery phase of the market cycle.
 
