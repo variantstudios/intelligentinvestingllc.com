@@ -2,15 +2,7 @@
 title: 'Economic Update - April, 2020'
 date: 2020-04-17 11:50:00
 image_path: /assets/economy.jpg
-short_description: >-
-  I am from the mindset that we should invest having a long-term and goal
-  oriented approach. Daily news reports should not dictate how our money is
-  invested. With that in mind we should always have an eye on what the economy
-  is doing on a macro level. Since 1955, the U.S. has experienced nine
-  recessions. My goal with this
-
-  report is to help identify the next recession so that we can make adjustments
-  to your investment strategy accordingly.
+short_description: "A lot has changed in the past 6 weeks, since my last economic update newsletter.\_ As a result of the COVID-19 driven global economic shutdown, we are now in the correction quadrant of the economic market cycle (better known as a recession)."
 category: investing
 tags:
 search_engine_optimization:
