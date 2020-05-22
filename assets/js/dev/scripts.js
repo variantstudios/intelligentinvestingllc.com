@@ -13,4 +13,13 @@ $(document).ready(function() {
   $('#nav-icon').click(function(){
 		$(this).toggleClass('open');
 	});
+	
+    
 });
+
+function recaptchaRender{
+    grecaptcha.render( 'reCaptchSubmit', {
+        'sitekey': '6LeflBYUAAAAAPie2tdRNhffKKrk2qQC9LaR_u4F',
+        'callback': get_action
+    });
+}
