@@ -13,7 +13,7 @@
 {% endif %}
 <script src="/assets/js/prod/scripts.js"></script>
 {% if page.permalink == "/contact/" %}
-<script src="https://www.google.com/recaptcha/api.js?render=351981614"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=SITE_ID"></script>
 <script>
     var submitted = false;
     var tokenCreated = false;
@@ -34,7 +34,7 @@
                 grecaptcha.ready(function() {
                     // do request for recaptcha token
                     // response is promise with passed token
-                    grecaptcha.execute('351981614', {action: 'create_comment'}).then(function (token) {
+                    grecaptcha.execute('SITE_ID', {action: 'create_comment'}).then(function (token) {
                         // add token to form
                         var input = document.createElement("input");
                         input.type = "hidden";
@@ -52,7 +52,7 @@
   });
 </script>
 {%elsif page.permalink == "/schedule-a-meeting/" %}
-<script src="https://www.google.com/recaptcha/api.js?render=351981614"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=SITE_ID"></script>
 <script>
     var submitted = false;
     var tokenCreated = false;
@@ -73,7 +73,7 @@
                 grecaptcha.ready(function() {
                     // do request for recaptcha token
                     // response is promise with passed token
-                    grecaptcha.execute('351981614', {action: 'create_comment'}).then(function (token) {
+                    grecaptcha.execute('SITE_ID', {action: 'create_comment'}).then(function (token) {
                         // add token to form
                         var input = document.createElement("input");
                         input.type = "hidden";
@@ -91,7 +91,7 @@
   });
 </script>
 {%elsif page.permalink == "/risk-tolerance-questionnaire/" %}
-<script src="https://www.google.com/recaptcha/api.js?render=351981614"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=SITE_ID"></script>
 <script>
     var submitted = false;
     var tokenCreated = false;
@@ -112,7 +112,7 @@
                 grecaptcha.ready(function() {
                     // do request for recaptcha token
                     // response is promise with passed token
-                    grecaptcha.execute('351981614', {action: 'create_comment'}).then(function (token) {
+                    grecaptcha.execute('SITE_ID', {action: 'create_comment'}).then(function (token) {
                         // add token to form
                         var input = document.createElement("input");
                         input.type = "hidden";
