@@ -9,9 +9,9 @@ search_engine_optimization:
   page_title: Trumpcare - 2 Yuge Tax Implications
   page_description: "As always, this is not an opinion piece. \_For my full stance on the Better Care Act (BCRA) you'll have to wait for my exclusive Rachel Maddow interview airing soon. \_For now, we can look at the tax implications if the current BCRA is passed through the senate."
 ---
-It has been a while since the last economic update.&nbsp; The purpose of this update is to identify any macro level red flags for a potential recession in the near term.&nbsp; The past 18 months has been unprecedented that started with a manmade recession created to combat the COVID-19 .&nbsp; It simultaneously put an end to the last market cycle and created a new on in a very short time frame.&nbsp; The end result will most likely be a shorter than normal market cycle, so these updates will become more important now so we can proactively approach your investment strategies.
+It has been a while since the last economic update.&nbsp; The purpose of this update is to identify any macro level red flags for a potential recession in the near term.&nbsp; The past 18 months has been unprecedented.&nbsp; COVID-19 simultaneously put an end to the last market cycle and created a new one in a very short time frame.&nbsp; The end result will most likely be a shorter than normal market cycle. &nbsp;These updates will become more important now so we can proactively approach your investment strategies.
 
-We will breakdown the analysis into 3 components:
+We will breakdown the analysis into 2 components:
 
 **1) EARLY WARNING - Inverted Yield Curve**
 
