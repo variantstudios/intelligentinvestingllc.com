@@ -15,7 +15,7 @@ We will breakdown the analysis into 2 components:
 
 **1) EARLY WARNING - Inverted Yield Curve**
 
-An inverted yield curve is when the 2 year U.S. treasury rate falls below the 10 year U.S. treasury rate for a 30 day period. The last 10 times this happened (since 1955), the U.S. economy entered a recession within the next 16 months (on average).&nbsp; It has historically been a great early warning sign for an upcoming recession.
+An inverted yield curve is when the 10 year U.S. treasury rate falls below the 2 year U.S. treasury rate for a period of time. The last 10 times this happened (since 1955), the U.S. economy entered a recession within the next 16 months (on average).&nbsp; It has historically been a great early warning sign for an upcoming recession.
 
 As of March 12, 2022 the 10 year Treasury rate is 1.997% and the 2 year Treasury rate is 1.746%.&nbsp; That is a narrow spread between the 2 rates, but we have still not had an inversion since the last recession.&nbsp; One thing to keep an eye on is the narrowing of the spread over the past few months.&nbsp; In October, 2021 the spread was approximately 1.3%.&nbsp; In November it was about 1.0%.&nbsp; In January, 2022 it was 0.750%.&nbsp; On March 12, 2022 the spread is only 0.251%.&nbsp; If it continues at this rate we could see an inversion by this summer (or earlier).&nbsp; As of right now there is no early warning sign of a recession, but it is getting very close.
 
